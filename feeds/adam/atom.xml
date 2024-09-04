@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://bookerics.com/feed</id>
   <title>bookerics: adam</title>
-  <updated>2024-09-04T00:53:50.371788+00:00</updated>
+  <updated>2024-09-04T01:03:15.808746+00:00</updated>
   <author>
     <name>Eric Hamiter</name>
     <email>ehamiter@gmail.com</email>
@@ -20,6 +20,7 @@
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://www.themadnoodle.com/udon13v2"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1620.jpg"/>
     <summary>The Udon:13 v.2 by The Mad Noodle: Elevate your desk setup with this Bespoke Premium Mechanical Macro Keypad.&#13;
 Featuring 12 hot-swap key switches, a knurled aluminum push-button encoder knob. The 128x32px OLED display provides crucial information, while the RGB under-glow adds flair. All fully programmable using VIA or QMK firmware. &#13;
 Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its signature 'Bare PCB Aesthetic'. Compatible with PC, Mac, Linux, and even iPad.</summary>
@@ -34,6 +35,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://letmesummarizethatforyou.com/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1596.jpg"/>
     <summary>A tool to generate summaries of text documents or web pages.</summary>
     <published>2024-07-17T18:20:21.583619+00:00</published>
   </entry>
@@ -46,6 +48,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://www.thesummarist.net/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1595.jpg"/>
     <summary>The Summarist is a collection of high-quality nonfiction book summaries. Its goal is to allow you to get an idea of the contents of a book before you buy it, and to be used as a reference if you have already read it.</summary>
     <published>2024-07-17T18:20:13.010923+00:00</published>
   </entry>
@@ -58,6 +61,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://puny.press/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1594.jpg"/>
     <summary>PunyPress is the easiest way to generate summaries of articles you read online</summary>
     <published>2024-07-17T18:12:53.398432+00:00</published>
   </entry>
@@ -70,6 +74,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://tidyread.ai/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1592.jpg"/>
     <summary>Automatically curate and summarize information from your own feeds, delivering a tidy digest at a specified time for you. Start for free.</summary>
     <published>2024-07-16T17:22:36.455618+00:00</published>
   </entry>
@@ -82,6 +87,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://terminal.click/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/29.jpg"/>
     <summary>Bringing Dead Text to Life</summary>
     <published>2024-04-26T14:46:11+00:00</published>
   </entry>
@@ -94,6 +100,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://textlambda.com/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/139.jpg"/>
     <summary/>
     <published>2024-01-20T01:29:24+00:00</published>
   </entry>
@@ -106,6 +113,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://dhc.iwanalabs.com/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/109.jpg"/>
     <summary/>
     <published>2024-02-03T04:56:35+00:00</published>
   </entry>
@@ -118,6 +126,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://midday.ai/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/1236.jpg"/>
     <summary>Midday provides you with greater insight into your business and automates the boring tasks, allowing you to focus on what you love to do instead.</summary>
     <published>2024-06-21T18:47:48.370659+00:00</published>
   </entry>
@@ -130,6 +139,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://www.helpbar.ai/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/233.jpg"/>
     <summary/>
     <published>2023-10-29T14:33:50+00:00</published>
   </entry>
@@ -142,6 +152,7 @@ Encased in crystal-clear acrylic, with 25-degree titled feet, it showcases its s
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://pysheets.app/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/26.jpg"/>
     <summary>PySheets provides a spreadsheet UI for Python, allowing users to perform exploratory data science, use Pandas, create charts with matplotlib, import Excel sheets, analyze data, and create reports. All the Python code runs in the browser, and PySheets itself is also written in Python.&#13;
 &#13;
 With PySheets, users can load any Python package and JS module to leverage the huge data-science ecosystem without needing to write much code.</summary>
@@ -156,6 +167,7 @@ With PySheets, users can load any Python package and JS module to leverage the h
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://www.youtube.com/watch?v=javGxN-h9VQ"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/104.jpg"/>
     <summary>In this video we will do a deep dive on how htmx works internally, so you can debug issues you might come across.Table of Contents:02:45 - Tools Overview05:5...</summary>
     <published>2024-02-05T03:15:30+00:00</published>
   </entry>
@@ -168,6 +180,7 @@ With PySheets, users can load any Python package and JS module to leverage the h
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://www.photondesigner.com/articles/generated-field-examples"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/55.jpg"/>
     <summary>Do calculations with your database in a neat and extremely fast way</summary>
     <published>2024-03-23T21:34:11+00:00</published>
   </entry>
@@ -180,6 +193,7 @@ With PySheets, users can load any Python package and JS module to leverage the h
       <email>ehamiter@gmail.com</email>
     </author>
     <link href="https://variancecharts.com/"/>
+    <link href="https://bookerics.s3.amazonaws.com/thumbnails/98.jpg"/>
     <summary>Build powerful data visualizations for the web. Without writing JavaScript. Variance empowers engineers, designers, journalists, scientists, and analysts to build elegant bespoke data graphics for the web, using only HTML &amp; CSS. Our intuitive, markup-based grammar emphasizes clear, practical graphics and serves as the foundation for a wide range of visualizations.</summary>
     <published>2024-02-14T00:07:07+00:00</published>
   </entry>
