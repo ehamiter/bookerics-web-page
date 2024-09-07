@@ -4,7 +4,7 @@
     <link>https://bookerics.com/</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make</description>
     <webMaster>ehamiter@gmail.com</webMaster>
-    <pubDate>Sat, 07 Sep 2024 00:05:07 +0000</pubDate>
+    <pubDate>Sat, 07 Sep 2024 00:09:29 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/adam/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -14,14 +14,14 @@
       <link>https://bookerics.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Sep 2024 00:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:09:29 +0000</lastBuildDate>
     <item>
   <title>Anyquery - Use SQL for everything</title>
   <link>https://anyquery.dev/</link>
   <description>Query anything with SQL, from your Chrome tabs to your Notion database</description>
   <author>ehamiter@gmail.com (Eric Hamiter)</author>
   <guid isPermaLink="true">https://anyquery.dev/</guid>
-  <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="1862" type="image/jpeg"/>
+  <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1666.jpg" length="11738" type="image/jpeg"/>
   <pubDate>Sat, 07 Sep 2024 00:05:04 +0000</pubDate>
 </item>
 <item>
