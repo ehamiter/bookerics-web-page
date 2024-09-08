@@ -4,7 +4,7 @@
     <link>https://bookerics.com/</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make</description>
     <webMaster>ehamiter@gmail.com</webMaster>
-    <pubDate>Sun, 08 Sep 2024 16:21:30 +0000</pubDate>
+    <pubDate>Sun, 08 Sep 2024 17:07:58 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/adam/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -12,9 +12,11 @@
       <url>https://www.gravatar.com/avatar/004503b8f559333472885c88a406519c2b4c92f3846cfe829ba6de76aa9776cc.jpg</url>
       <title>bookerics: adam</title>
       <link>https://bookerics.com/</link>
+      <width>80</width>
+      <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 16:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 17:07:58 +0000</lastBuildDate>
         <item>
       <title>json-flatten, now with format documentation</title>
       <link>https://simonwillison.net/2024/Sep/7/json-flatten/</link>
