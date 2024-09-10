@@ -4,7 +4,7 @@
     <link>https://bookerics.com/</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make</description>
     <webMaster>ehamiter@gmail.com</webMaster>
-    <pubDate>Sun, 08 Sep 2024 17:18:24 +0000</pubDate>
+    <pubDate>Tue, 10 Sep 2024 14:55:02 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/adam/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,17 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 17:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 14:55:02 +0000</lastBuildDate>
         <item>
+      <title>gabrielpetersson/fast-grid: World's most performant DOM-based web table.</title>
+      <link>https://github.com/gabrielpetersson/fast-grid/</link>
+      <description>World's most performant DOM-based web table. Contribute to gabrielpetersson/fast-grid development by creating an account on GitHub.</description>
+      <author>ehamiter@gmail.com (Eric Hamiter)</author>
+      <guid isPermaLink="true">https://github.com/gabrielpetersson/fast-grid/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="1862" type="image/jpeg"/>
+      <pubDate>Tue, 10 Sep 2024 14:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>json-flatten, now with format documentation</title>
       <link>https://simonwillison.net/2024/Sep/7/json-flatten/</link>
       <description>json-flatten, now with format documentation-- a fun little Python library for converting JSON data into a flat key-value format, suitable for inclusion in an HTML form or query string.</description>
