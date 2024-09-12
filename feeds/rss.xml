@@ -4,7 +4,7 @@
     <link>https://bookerics.com/</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make</description>
     <webMaster>ehamiter@gmail.com</webMaster>
-    <pubDate>Thu, 12 Sep 2024 22:19:47 +0000</pubDate>
+    <pubDate>Thu, 12 Sep 2024 22:25:41 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,7 +16,7 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 22:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 22:25:41 +0000</lastBuildDate>
         <item>
       <title>The First HTML LSP That Reports Syntax Errors | Loris Cro's Blog</title>
       <link>https://kristoff.it/blog/first-html-lsp/</link>
@@ -2026,10 +2026,10 @@
     </item>
     <item>
       <title>Trends</title>
-      <link>https://trends.google.com/trends/trendingsearches/realtime?geo=US&hl=en-US&category=all</link>
+      <link>https://trends.google.com/trends/trendingsearches/realtime?geo=US&amp;hl=en-US&amp;category=all</link>
       <description>Google Trends showcases real-time trending searches in the United States across various categories.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://trends.google.com/trends/trendingsearches/realtime?geo=US&hl=en-US&category=all</guid>
+      <guid isPermaLink="true">https://trends.google.com/trends/trendingsearches/realtime?geo=US&amp;hl=en-US&amp;category=all</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/45.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 09 Apr 2024 13:54:56 +0000</pubDate>
     </item>
@@ -2080,10 +2080,10 @@
     </item>
     <item>
       <title>Brian's Job Search</title>
-      <link>https://briansjobsearch.com/?job=Django&time=24hours&campaign=Django</link>
+      <link>https://briansjobsearch.com/?job=Django&amp;time=24hours&amp;campaign=Django</link>
       <description>Discover your next job with Brian's Job Search. Optimized for Google, this is a user-friendly and efficient way to explore a wide range of career opportunities. Start your journey towards a fulfilling job today!</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://briansjobsearch.com/?job=Django&time=24hours&campaign=Django</guid>
+      <guid isPermaLink="true">https://briansjobsearch.com/?job=Django&amp;time=24hours&amp;campaign=Django</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/51.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 27 Mar 2024 19:51:30 +0000</pubDate>
     </item>
@@ -2773,10 +2773,10 @@
     </item>
     <item>
       <title>Protected pages</title>
-      <link>https://en.wikipedia.org/wiki/Special:ProtectedPages?namespace=0&type=edit&level=0&size-mode=min&size=</link>
+      <link>https://en.wikipedia.org/wiki/Special:ProtectedPages?namespace=0&amp;type=edit&amp;level=0&amp;size-mode=min&amp;size=</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Special:ProtectedPages?namespace=0&type=edit&level=0&size-mode=min&size=</guid>
+      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Special:ProtectedPages?namespace=0&amp;type=edit&amp;level=0&amp;size-mode=min&amp;size=</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sat, 20 Jan 2024 08:40:20 +0000</pubDate>
     </item>
@@ -2980,19 +2980,19 @@
     </item>
     <item>
       <title></title>
-      <link>https://rv.campingworld.com/searchresults?forcegl=NAS,NTN&pricerange_min=0&pricerange_max=15000&page=2</link>
+      <link>https://rv.campingworld.com/searchresults?forcegl=NAS,NTN&amp;pricerange_min=0&amp;pricerange_max=15000&amp;page=2</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://rv.campingworld.com/searchresults?forcegl=NAS,NTN&pricerange_min=0&pricerange_max=15000&page=2</guid>
+      <guid isPermaLink="true">https://rv.campingworld.com/searchresults?forcegl=NAS,NTN&amp;pricerange_min=0&amp;pricerange_max=15000&amp;page=2</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 03 Jan 2024 23:48:18 +0000</pubDate>
     </item>
     <item>
       <title></title>
-      <link>https://rv.campingworld.com/searchresults?zip=37221&forcedistance=nationwide&floorplans=fl,rb,rl&year_min=2015&year_max=2025&sleepnum_min=2&sleepnum_max=4&rv_class=tt,sc,pu,ih</link>
+      <link>https://rv.campingworld.com/searchresults?zip=37221&amp;forcedistance=nationwide&amp;floorplans=fl,rb,rl&amp;year_min=2015&amp;year_max=2025&amp;sleepnum_min=2&amp;sleepnum_max=4&amp;rv_class=tt,sc,pu,ih</link>
       <description>Travel trailer rvs Couples camper for Sale at Camping World, the nation's largest RV &amp; Camper dealer. Browse inventory online.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://rv.campingworld.com/searchresults?zip=37221&forcedistance=nationwide&floorplans=fl,rb,rl&year_min=2015&year_max=2025&sleepnum_min=2&sleepnum_max=4&rv_class=tt,sc,pu,ih</guid>
+      <guid isPermaLink="true">https://rv.campingworld.com/searchresults?zip=37221&amp;forcedistance=nationwide&amp;floorplans=fl,rb,rl&amp;year_min=2015&amp;year_max=2025&amp;sleepnum_min=2&amp;sleepnum_max=4&amp;rv_class=tt,sc,pu,ih</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/157.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 03 Jan 2024 23:34:54 +0000</pubDate>
     </item>
@@ -3412,10 +3412,10 @@
     </item>
     <item>
       <title>How To Build A Shed Foundation/Floor (Shed Workshop Ep. 1)</title>
-      <link>https://www.youtube.com/watch?v=0-AI2UrTfo8&list=PL0fcKzVYPL30iK03oJYHJb5t2yf-pRNme</link>
+      <link>https://www.youtube.com/watch?v=0-AI2UrTfo8&amp;list=PL0fcKzVYPL30iK03oJYHJb5t2yf-pRNme</link>
       <description>Welcome to my Sunday Shed-Shop Series! Follow along over the next few weeks as my dad and I turn a pile of pre-cut lumber into a 12x12 #shed/#workshop!Today ...</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=0-AI2UrTfo8&list=PL0fcKzVYPL30iK03oJYHJb5t2yf-pRNme</guid>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0-AI2UrTfo8&amp;list=PL0fcKzVYPL30iK03oJYHJb5t2yf-pRNme</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 16 Nov 2023 18:29:07 +0000</pubDate>
     </item>
@@ -3520,10 +3520,10 @@
     </item>
     <item>
       <title>Nike ACG Mountain Fly 2 Low</title>
-      <link>https://www.nike.com/t/acg-mountain-fly-2-low-mens-shoes-kl94gN/DV7903-002?cid=4942550&cp=usns_aff_nike_Content_PID_100978904_Uncrate%2C+LLC&cjevent=669481c27ddb11ee816200580a82b820</link>
+      <link>https://www.nike.com/t/acg-mountain-fly-2-low-mens-shoes-kl94gN/DV7903-002?cid=4942550&amp;cp=usns_aff_nike_Content_PID_100978904_Uncrate%2C+LLC&amp;cjevent=669481c27ddb11ee816200580a82b820</link>
       <description>Find the Nike ACG Mountain Fly 2 Low Men's Shoes at Nike.com. Free delivery and returns.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.nike.com/t/acg-mountain-fly-2-low-mens-shoes-kl94gN/DV7903-002?cid=4942550&cp=usns_aff_nike_Content_PID_100978904_Uncrate%2C+LLC&cjevent=669481c27ddb11ee816200580a82b820</guid>
+      <guid isPermaLink="true">https://www.nike.com/t/acg-mountain-fly-2-low-mens-shoes-kl94gN/DV7903-002?cid=4942550&amp;cp=usns_aff_nike_Content_PID_100978904_Uncrate%2C+LLC&amp;cjevent=669481c27ddb11ee816200580a82b820</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 08 Nov 2023 02:07:49 +0000</pubDate>
     </item>
@@ -3709,10 +3709,10 @@
     </item>
     <item>
       <title>David Maus Jr's Amazon Page - 1/2 HP DIY Cold Plunge Kit</title>
-      <link>https://www.amazon.com/shop/davidmausjr/list/262IIA47MW9MI?linkCode=spc&tag=dmausjr-20&domainId=influencer&asc_contentid=amzn1.ideas.262IIA47MW9MI</link>
+      <link>https://www.amazon.com/shop/davidmausjr/list/262IIA47MW9MI?linkCode=spc&amp;tag=dmausjr-20&amp;domainId=influencer&amp;asc_contentid=amzn1.ideas.262IIA47MW9MI</link>
       <description>Shop recommended products from David Maus Jr on www.amazon.com. Learn more about David Maus Jr's favorite products.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.amazon.com/shop/davidmausjr/list/262IIA47MW9MI?linkCode=spc&tag=dmausjr-20&domainId=influencer&asc_contentid=amzn1.ideas.262IIA47MW9MI</guid>
+      <guid isPermaLink="true">https://www.amazon.com/shop/davidmausjr/list/262IIA47MW9MI?linkCode=spc&amp;tag=dmausjr-20&amp;domainId=influencer&amp;asc_contentid=amzn1.ideas.262IIA47MW9MI</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 25 Oct 2023 19:26:18 +0000</pubDate>
     </item>
@@ -3925,10 +3925,10 @@
     </item>
     <item>
       <title>Custom-Fit Swimming Goggles | 100% Fit Guarantee | By THEMAGIC5</title>
-      <link>https://themagic5.com/?fbadid=23853399584740418&audience=new_customer&fbclid=PAAabRKBGK3p5Rqy0slHgHYQlUpyZ5t81gtkPtmHqx5W3a33pnH-47O3QV1_w_aem_AejrejX9rR0IbLFsq_LH4toOqcEwhRIyOWG_VQdH2dmv-avwn9tdUpGseGrjZu1Cwbw4wGHePliDwiZB_o3uU96I&campaign_id=23853399542780418&ad_id=23853399584740418</link>
+      <link>https://themagic5.com/?fbadid=23853399584740418&amp;audience=new_customer&amp;fbclid=PAAabRKBGK3p5Rqy0slHgHYQlUpyZ5t81gtkPtmHqx5W3a33pnH-47O3QV1_w_aem_AejrejX9rR0IbLFsq_LH4toOqcEwhRIyOWG_VQdH2dmv-avwn9tdUpGseGrjZu1Cwbw4wGHePliDwiZB_o3uU96I&amp;campaign_id=23853399542780418&amp;ad_id=23853399584740418</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://themagic5.com/?fbadid=23853399584740418&audience=new_customer&fbclid=PAAabRKBGK3p5Rqy0slHgHYQlUpyZ5t81gtkPtmHqx5W3a33pnH-47O3QV1_w_aem_AejrejX9rR0IbLFsq_LH4toOqcEwhRIyOWG_VQdH2dmv-avwn9tdUpGseGrjZu1Cwbw4wGHePliDwiZB_o3uU96I&campaign_id=23853399542780418&ad_id=23853399584740418</guid>
+      <guid isPermaLink="true">https://themagic5.com/?fbadid=23853399584740418&amp;audience=new_customer&amp;fbclid=PAAabRKBGK3p5Rqy0slHgHYQlUpyZ5t81gtkPtmHqx5W3a33pnH-47O3QV1_w_aem_AejrejX9rR0IbLFsq_LH4toOqcEwhRIyOWG_VQdH2dmv-avwn9tdUpGseGrjZu1Cwbw4wGHePliDwiZB_o3uU96I&amp;campaign_id=23853399542780418&amp;ad_id=23853399584740418</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/263.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sun, 01 Oct 2023 18:31:47 +0000</pubDate>
     </item>
@@ -6688,10 +6688,10 @@
     </item>
     <item>
       <title>Search - Depop</title>
-      <link>https://www.depop.com/search/?q=t-shirt&sizes=2-54.5&priceMax=15&sort=relevance</link>
+      <link>https://www.depop.com/search/?q=t-shirt&amp;sizes=2-54.5&amp;priceMax=15&amp;sort=relevance</link>
       <description>Designer. Preloved. Vintage. Streetwear. Sneakers. Whatever your style. Find it on Depop.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.depop.com/search/?q=t-shirt&sizes=2-54.5&priceMax=15&sort=relevance</guid>
+      <guid isPermaLink="true">https://www.depop.com/search/?q=t-shirt&amp;sizes=2-54.5&amp;priceMax=15&amp;sort=relevance</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/359.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 23 May 2023 14:25:26 +0000</pubDate>
     </item>
@@ -6985,10 +6985,10 @@
     </item>
     <item>
       <title>Inheritance in JavaScript - Prototypal Inheritance tutorial</title>
-      <link>https://www.youtube.com/watch?v=jnME98ckDbQ&list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP</link>
+      <link>https://www.youtube.com/watch?v=jnME98ckDbQ&amp;list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP</link>
       <description>All the code from this series is available here:https://github.com/ColorCode/js-10-thingsJavaScript Inheritance from the series "10 Things JS Developers Shou...</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=jnME98ckDbQ&list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP</guid>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jnME98ckDbQ&amp;list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/395.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 14 Sep 2022 20:06:11 +0000</pubDate>
     </item>
@@ -7039,10 +7039,10 @@
     </item>
     <item>
       <title>Down Alternative Pillow Set</title>
-      <link>https://www.tuftandneedle.com/down-alternative-pillow/?irclickid=Ws-1qs2-HxyNUtAwvGwGi3gDUkDW08wFMzHFX40&irgwc=1</link>
+      <link>https://www.tuftandneedle.com/down-alternative-pillow/?irclickid=Ws-1qs2-HxyNUtAwvGwGi3gDUkDW08wFMzHFX40&amp;irgwc=1</link>
       <description>Down alternative pillow set from Tuft &amp; Needle. Our hypoallergenic pillows come in a set of 2 and are perfect for back and side sleepers. Standard or King size.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.tuftandneedle.com/down-alternative-pillow/?irclickid=Ws-1qs2-HxyNUtAwvGwGi3gDUkDW08wFMzHFX40&irgwc=1</guid>
+      <guid isPermaLink="true">https://www.tuftandneedle.com/down-alternative-pillow/?irclickid=Ws-1qs2-HxyNUtAwvGwGi3gDUkDW08wFMzHFX40&amp;irgwc=1</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/401.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 08 Sep 2022 17:50:40 +0000</pubDate>
     </item>
@@ -7282,10 +7282,10 @@
     </item>
     <item>
       <title>Customize Firefox</title>
-      <link>https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize</link>
+      <link>https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize</guid>
+      <guid isPermaLink="true">https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&amp;utm_medium=default-bookmarks&amp;utm_campaign=customize</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 01 Jul 2022 16:56:30 +0000</pubDate>
     </item>
@@ -8029,10 +8029,10 @@
     </item>
     <item>
       <title>Getting Started with Elasticsearch | Elastic Videos</title>
-      <link>https://www.elastic.co/webinars/getting-started-elasticsearch-v2?baymax=rtp&baymax=rtp&elektra=products-elasticsearch&storm=ribbon1&rogue=everyone</link>
+      <link>https://www.elastic.co/webinars/getting-started-elasticsearch-v2?baymax=rtp&amp;baymax=rtp&amp;elektra=products-elasticsearch&amp;storm=ribbon1&amp;rogue=everyone</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.elastic.co/webinars/getting-started-elasticsearch-v2?baymax=rtp&baymax=rtp&elektra=products-elasticsearch&storm=ribbon1&rogue=everyone</guid>
+      <guid isPermaLink="true">https://www.elastic.co/webinars/getting-started-elasticsearch-v2?baymax=rtp&amp;baymax=rtp&amp;elektra=products-elasticsearch&amp;storm=ribbon1&amp;rogue=everyone</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 23 Apr 2021 19:55:22 +0000</pubDate>
     </item>
@@ -9163,10 +9163,10 @@
     </item>
     <item>
       <title>Card-Shark - Destiny Deck - by David Gonzalez</title>
-      <link>http://www.card-shark.de/index.cfm?page=79&lang=en&detail=true&Category=13&ArtID=359</link>
+      <link>http://www.card-shark.de/index.cfm?page=79&amp;lang=en&amp;detail=true&amp;Category=13&amp;ArtID=359</link>
       <description>Seitenbeschreibung</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.card-shark.de/index.cfm?page=79&lang=en&detail=true&Category=13&ArtID=359</guid>
+      <guid isPermaLink="true">http://www.card-shark.de/index.cfm?page=79&amp;lang=en&amp;detail=true&amp;Category=13&amp;ArtID=359</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 11 Jul 2018 17:12:13 +0000</pubDate>
     </item>
@@ -9658,10 +9658,10 @@
     </item>
     <item>
       <title>uBar - The Dock replacement for the Mac</title>
-      <link>https://brawersoftware.com/products/ubar?source=producthunt&campaign=ubar4launch&ref=producthunt</link>
+      <link>https://brawersoftware.com/products/ubar?source=producthunt&amp;campaign=ubar4launch&amp;ref=producthunt</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://brawersoftware.com/products/ubar?source=producthunt&campaign=ubar4launch&ref=producthunt</guid>
+      <guid isPermaLink="true">https://brawersoftware.com/products/ubar?source=producthunt&amp;campaign=ubar4launch&amp;ref=producthunt</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 19 Sep 2017 18:59:42 +0000</pubDate>
     </item>
@@ -9784,10 +9784,10 @@
     </item>
     <item>
       <title>Cheap flights - Search and Compare Flights with momondo</title>
-      <link>http://www.momondo.com/?Search=true&TripType=2&SegNo=2&SO0=BNA&SD0=CZM&SDP0=10-11-2017&SO1=CZM&SD1=BNA&SDP1=13-11-2017&AD=1&TK=ECO&DO=false&NA=false</link>
+      <link>http://www.momondo.com/?Search=true&amp;TripType=2&amp;SegNo=2&amp;SO0=BNA&amp;SD0=CZM&amp;SDP0=10-11-2017&amp;SO1=CZM&amp;SD1=BNA&amp;SDP1=13-11-2017&amp;AD=1&amp;TK=ECO&amp;DO=false&amp;NA=false</link>
       <description>Find cheap flights with momondo. We help you find and compare fares from 700+ travel sites, giving you access to the best rates for airline tickets online.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.momondo.com/?Search=true&TripType=2&SegNo=2&SO0=BNA&SD0=CZM&SDP0=10-11-2017&SO1=CZM&SD1=BNA&SDP1=13-11-2017&AD=1&TK=ECO&DO=false&NA=false</guid>
+      <guid isPermaLink="true">http://www.momondo.com/?Search=true&amp;TripType=2&amp;SegNo=2&amp;SO0=BNA&amp;SD0=CZM&amp;SDP0=10-11-2017&amp;SO1=CZM&amp;SD1=BNA&amp;SDP1=13-11-2017&amp;AD=1&amp;TK=ECO&amp;DO=false&amp;NA=false</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/715.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 13 Jul 2017 02:00:00 +0000</pubDate>
     </item>
@@ -10018,10 +10018,10 @@
     </item>
     <item>
       <title>Wool Loungers</title>
-      <link>https://www.allbirds.com/products/mens-wool-loungers?ref=producthunt&variant=41473299527</link>
+      <link>https://www.allbirds.com/products/mens-wool-loungers?ref=producthunt&amp;variant=41473299527</link>
       <description>Soft comfort in a smart silhouette that goes with every outfit and occasion.</description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.allbirds.com/products/mens-wool-loungers?ref=producthunt&variant=41473299527</guid>
+      <guid isPermaLink="true">https://www.allbirds.com/products/mens-wool-loungers?ref=producthunt&amp;variant=41473299527</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/742.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Mon, 10 Apr 2017 15:40:40 +0000</pubDate>
     </item>
@@ -10801,10 +10801,10 @@
     </item>
     <item>
       <title>Radiohead - Weird Fishes/Arpeggi - Live From The Basement [HD] - YouTube</title>
-      <link>https://www.youtube.com/watch?v=Q888PBtrWc0&list=PL2C111A9E998E7743</link>
+      <link>https://www.youtube.com/watch?v=Q888PBtrWc0&amp;list=PL2C111A9E998E7743</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q888PBtrWc0&list=PL2C111A9E998E7743</guid>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q888PBtrWc0&amp;list=PL2C111A9E998E7743</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 30 Oct 2015 02:50:13 +0000</pubDate>
     </item>
@@ -11638,10 +11638,10 @@
     </item>
     <item>
       <title>Acer 11.6" Chromebook 2GB Memory 16GB Solid State Drive C710-2833 - Best Buy</title>
-      <link>http://www.bestbuy.com/site/acer-11-6-34-chromebook-2gb-memory-16gb-solid-state-drive-iron-gray/8850098.p?id=1218914355314&skuId=8850098</link>
+      <link>http://www.bestbuy.com/site/acer-11-6-34-chromebook-2gb-memory-16gb-solid-state-drive-iron-gray/8850098.p?id=1218914355314&amp;skuId=8850098</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.bestbuy.com/site/acer-11-6-34-chromebook-2gb-memory-16gb-solid-state-drive-iron-gray/8850098.p?id=1218914355314&skuId=8850098</guid>
+      <guid isPermaLink="true">http://www.bestbuy.com/site/acer-11-6-34-chromebook-2gb-memory-16gb-solid-state-drive-iron-gray/8850098.p?id=1218914355314&amp;skuId=8850098</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 16 Oct 2013 13:02:31 +0000</pubDate>
     </item>
@@ -11746,10 +11746,10 @@
     </item>
     <item>
       <title>Amazon.com: Under The Dome [HD]: Season 1, Episode 1 "Pilot [HD]": Amazon Instant Video</title>
-      <link>http://www.amazon.com/gp/product/B00DOWMH1G/ref=amb_link_378632982_2?ie=UTF8&nav_sdd=aps&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=12GP91AM849AP6EZAYQ8&pf_rd_t=101&pf_rd_p=1575486082&pf_rd_i=507846</link>
+      <link>http://www.amazon.com/gp/product/B00DOWMH1G/ref=amb_link_378632982_2?ie=UTF8&amp;nav_sdd=aps&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-1&amp;pf_rd_r=12GP91AM849AP6EZAYQ8&amp;pf_rd_t=101&amp;pf_rd_p=1575486082&amp;pf_rd_i=507846</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.amazon.com/gp/product/B00DOWMH1G/ref=amb_link_378632982_2?ie=UTF8&nav_sdd=aps&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-1&pf_rd_r=12GP91AM849AP6EZAYQ8&pf_rd_t=101&pf_rd_p=1575486082&pf_rd_i=507846</guid>
+      <guid isPermaLink="true">http://www.amazon.com/gp/product/B00DOWMH1G/ref=amb_link_378632982_2?ie=UTF8&amp;nav_sdd=aps&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-1&amp;pf_rd_r=12GP91AM849AP6EZAYQ8&amp;pf_rd_t=101&amp;pf_rd_p=1575486082&amp;pf_rd_i=507846</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 28 Jun 2013 18:41:40 +0000</pubDate>
     </item>
@@ -11782,10 +11782,10 @@
     </item>
     <item>
       <title>K&amp;J Magnetics - Products</title>
-      <link>http://www.kjmagnetics.com/proddetail.asp?prod=DX08B-N52&cat=168</link>
+      <link>http://www.kjmagnetics.com/proddetail.asp?prod=DX08B-N52&amp;cat=168</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.kjmagnetics.com/proddetail.asp?prod=DX08B-N52&cat=168</guid>
+      <guid isPermaLink="true">http://www.kjmagnetics.com/proddetail.asp?prod=DX08B-N52&amp;cat=168</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/940.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 05 Jun 2013 02:05:02 +0000</pubDate>
     </item>
@@ -11872,10 +11872,10 @@
     </item>
     <item>
       <title>Debuggex: A visual regular expression debugger</title>
-      <link>http://www.debuggex.com/?re=&str=</link>
+      <link>http://www.debuggex.com/?re=&amp;str=</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.debuggex.com/?re=&str=</guid>
+      <guid isPermaLink="true">http://www.debuggex.com/?re=&amp;str=</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sat, 23 Feb 2013 02:17:33 +0000</pubDate>
     </item>
@@ -11908,10 +11908,10 @@
     </item>
     <item>
       <title>Can I disable dashboard on my iMac?: Apple Support Communities</title>
-      <link>https://discussions.apple.com/thread/4255523?start=0&tstart=0</link>
+      <link>https://discussions.apple.com/thread/4255523?start=0&amp;tstart=0</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">https://discussions.apple.com/thread/4255523?start=0&tstart=0</guid>
+      <guid isPermaLink="true">https://discussions.apple.com/thread/4255523?start=0&amp;tstart=0</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/956.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 02 Jan 2013 21:40:12 +0000</pubDate>
     </item>
@@ -13042,10 +13042,10 @@
     </item>
     <item>
       <title>Free Software for Aspiring Novelists</title>
-      <link>http://www.techsupportalert.com/content/free-software-aspiring-novelists.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmosbest+(Gizmo's+Best-ever+Freeware)&utm_content=Google+Reader</link>
+      <link>http://www.techsupportalert.com/content/free-software-aspiring-novelists.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmosbest+(Gizmo's+Best-ever+Freeware)&amp;utm_content=Google+Reader</link>
       <description></description>
       <author>ehamiter@gmail.com (Eric Hamiter)</author>
-      <guid isPermaLink="true">http://www.techsupportalert.com/content/free-software-aspiring-novelists.htm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmosbest+(Gizmo's+Best-ever+Freeware)&utm_content=Google+Reader</guid>
+      <guid isPermaLink="true">http://www.techsupportalert.com/content/free-software-aspiring-novelists.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmosbest+(Gizmo's+Best-ever+Freeware)&amp;utm_content=Google+Reader</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sat, 30 Jul 2011 16:02:17 +0000</pubDate>
     </item>
