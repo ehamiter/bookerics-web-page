@@ -4,7 +4,7 @@
     <link>https://bookerics.com/feeds/rss</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make.</description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 13 Sep 2024 01:55:49 +0000</pubDate>
+    <pubDate>Fri, 13 Sep 2024 22:00:10 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,26 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Sep 2024 01:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 22:00:10 +0000</lastBuildDate>
         <item>
+      <title>Studio Project #3: A House for Oneself</title>
+      <link>https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</link>
+      <description>The process of designing a small dream house.</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1679.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 13 Sep 2024 21:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Any RSS feed recommendations that aren't news? - ~tech - Tildes</title>
+      <link>https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</link>
+      <description>RSS feed recommendations that aren't news</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1678.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 13 Sep 2024 21:38:12 +0000</pubDate>
+    </item>
+    <item>
       <title>AI Predict</title>
       <link>https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</link>
       <description>Will the Buffalo Bills defeat the Miami Dolphins in their NFL game on 2024-09-12?</description>
@@ -223,24 +241,6 @@
       <guid isPermaLink="true">https://lowcostminipcs.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 29 Aug 2024 16:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skip | Dual-platform app development in Swift</title>
-      <link>https://skip.tools/</link>
-      <description>Skip is a Swift to Kotlin transpiler</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://skip.tools/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1650.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 29 Aug 2024 15:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>datasets/hn_projects.md at main · getomni-ai/datasets</title>
-      <link>https://github.com/getomni-ai/datasets/blob/main/hn_projects.md</link>
-      <description>Public datsets made with https://getomni.ai/. Contribute to getomni-ai/datasets development by creating an account on GitHub.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/getomni-ai/datasets/blob/main/hn_projects.md</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1649.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 28 Aug 2024 20:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
