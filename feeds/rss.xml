@@ -4,7 +4,7 @@
     <link>https://bookerics.com/feeds/rss</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make.</description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 12 Sep 2024 23:33:34 +0000</pubDate>
+    <pubDate>Fri, 13 Sep 2024 01:55:49 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,17 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 23:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 01:55:49 +0000</lastBuildDate>
         <item>
+      <title>AI Predict</title>
+      <link>https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</link>
+      <description>Will the Buffalo Bills defeat the Miami Dolphins in their NFL game on 2024-09-12?</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1677.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 13 Sep 2024 00:02:42 +0000</pubDate>
+    </item>
+    <item>
       <title>The First HTML LSP That Reports Syntax Errors | Loris Cro's Blog</title>
       <link>https://kristoff.it/blog/first-html-lsp/</link>
       <description>The story of how I gained two world-firsts, somehow.</description>
@@ -232,15 +241,6 @@
       <guid isPermaLink="true">https://github.com/getomni-ai/datasets/blob/main/hn_projects.md</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1649.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 28 Aug 2024 20:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>lynx: a self-hostable read-it-later service</title>
-      <link>https://github.com/brendanv/lynx</link>
-      <description>Lynx is a self-hostable read-it-later service that let's you save articles or passages in the moment and get back to reading them later (eventually). Never worry about losing access to articles due to link rot, as all article content is parsed and saved locally.  Better yet, Lynx contains almost zero JavaScript so it can run on just about anything - brendanv/lynx</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/brendanv/lynx</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1648.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 28 Aug 2024 20:36:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
