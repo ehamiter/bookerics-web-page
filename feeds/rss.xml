@@ -4,7 +4,7 @@
     <link>https://bookerics.com/feeds/rss</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make.</description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 13 Sep 2024 22:00:10 +0000</pubDate>
+    <pubDate>Sun, 15 Sep 2024 22:31:37 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,26 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Sep 2024 22:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 22:31:37 +0000</lastBuildDate>
         <item>
+      <title>Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube</title>
+      <link>https://www.youtube.com/watch?v=IP_rtWEMR0o</link>
+      <description>If you've been building websites for a while you "know" that some things require JS and that's just the way it is.  Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth scrolling, dialogs are all available without JS. Looking a little ahead, things like parallax scrolling, styleable selects and component-dependent styling are expected to make their CSS-debut as well.  In this talk I go through common patterns, explain how they can be implemented in CSS and HTML, how that's better and what accessibility implications they have, both for features available today and feature available soon™️.</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IP_rtWEMR0o</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1681.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sat, 14 Sep 2024 21:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>HEX to Tailwind</title>
+      <link>https://hextotailwind.com/</link>
+      <description>Find the closest Tailwind color for a given HEX code. A simple online web app that is completely free.</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://hextotailwind.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1680.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 13 Sep 2024 22:01:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Studio Project #3: A House for Oneself</title>
       <link>https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</link>
       <description>The process of designing a small dream house.</description>
@@ -223,24 +241,6 @@
       <guid isPermaLink="true">https://django-cotton.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1655.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 30 Aug 2024 00:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>PR-Pilot-AI/rapid-prototyper: A template repo for rapid prototyping with PR Pilot</title>
-      <link>https://github.com/PR-Pilot-AI/rapid-prototyper</link>
-      <description>A template repo for rapid prototyping with PR Pilot - PR-Pilot-AI/rapid-prototyper</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/PR-Pilot-AI/rapid-prototyper</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1652.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 29 Aug 2024 20:21:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Low Cost Mini PCs</title>
-      <link>https://lowcostminipcs.com/</link>
-      <description>Comparison of tiny pcs available on eBay.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://lowcostminipcs.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 29 Aug 2024 16:19:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
