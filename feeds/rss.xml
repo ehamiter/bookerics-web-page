@@ -4,7 +4,7 @@
     <link>https://bookerics.com/feeds/rss</link>
     <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make.</description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Wed, 18 Sep 2024 15:06:55 +0000</pubDate>
+    <pubDate>Wed, 18 Sep 2024 17:03:36 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,17 @@
       <height>80</height>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2024 15:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 17:03:36 +0000</lastBuildDate>
         <item>
+      <title>Yes, you should use SQLite: Notion's creative SQLite usage for 20% faster loads</title>
+      <link>https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</link>
+      <description>(6 minute read) Thanks to WebAssembly, SQLite is even more magical on the web</description>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1683.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 18 Sep 2024 17:03:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Xnapper</title>
       <link>https://xnapper.com/app</link>
       <description>Turn your screenshots into stunning visuals - in seconds.</description>
@@ -232,15 +241,6 @@
       <guid isPermaLink="true">https://www.minimalcompany.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1657.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 30 Aug 2024 14:49:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>About Us | Paleblue</title>
-      <link>https://paleblueearth.com/pages/about</link>
-      <description>Paleblue's rechargeable batteries are built for adventure, perfect for home. We're here to provide a better &amp; sustainable battery for each of your needs.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://paleblueearth.com/pages/about</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1656.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 30 Aug 2024 00:29:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
