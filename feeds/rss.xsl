@@ -41,6 +41,19 @@
             line-height: 1.6;
             margin-bottom: 10px;
         }
+        div.item.inner .tag {
+          display: inline-block;
+          background-color: #2b2b2b;
+          color: #e0e0e0;
+          padding: 2px 6px;
+          border-radius: 4px;
+          margin-right: 4px;
+          font-family: monospace;
+          border: 1px solid #000;
+          text-transform: lowercase;
+          letter-spacing: 0.5px;
+          box-shadow: -1px 1px 2px rgba(0, 0, 0, 0.5);
+        }
         </style>
       </head>
       <body>
@@ -86,6 +99,20 @@
                   <xsl:value-of select="enclosure/@url"/>
                 </xsl:attribute>
               </img>
+            </xsl:if>
+            <xsl:if test="category">
+              <p>
+                <small>
+                  <xsl:for-each select="category">
+                    <span class="tag">
+                      <xsl:value-of select="."/>
+                    </span>
+                    <xsl:if test="position() != last()">
+                      <xsl:text> </xsl:text>
+                    </xsl:if>
+                  </xsl:for-each>
+                </small>
+              </p>
             </xsl:if>
           </div>
         </xsl:for-each>

@@ -4,9 +4,9 @@
   <channel>
     <title>bookerics</title>
     <link>https://bookerics.com/feeds/rss.xml</link>
-    <description>bookmarks, but for Erics</description>
+    <description>Hand-curated, organically-roasted RSS feeds just like Mom used to make.</description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Wed, 18 Sep 2024 17:08:44 +0000</pubDate>
+    <pubDate>Wed, 18 Sep 2024 23:49:07 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,11 +16,61 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2024 17:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 23:49:07 +0000</lastBuildDate>
         <item>
+      <title>Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/</link>
+      <description>Convert email newsletters into Atom feeds</description>
+      <category>newsletters</category>
+  <category>email</category>
+  <category>rss</category>
+  <category>feeds</category>
+  <category>services</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://kill-the-newsletter.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1687.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 18 Sep 2024 19:46:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>siftrss | Filter your RSS feeds and throw away the junk</title>
+      <link>https://siftrss.com/</link>
+      <description>Add powerful filters to any Atom or RSS feed for free!  No registration, no limitations, no ads—just a handy tool to declutter your feeds.</description>
+      <category>rss</category>
+  <category>feeds</category>
+  <category>filtering</category>
+  <category>management</category>
+  <category>web</category>
+  <category>service</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://siftrss.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1686.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 18 Sep 2024 19:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero-knowledge appointment scheduler | noperator</title>
+      <link>https://noperator.dev/posts/zero-knowledge-appointment-scheduler/</link>
+      <description>I recently (finally) started using online appointment scheduling software. There are many players in this space, but Calendly is the most popular and featureful. It’s awesome—but in order to use it, you have to give it direct access to whichever calendars you want it to check for conflicts. That means access to all sensitive details like online meeting URLs, attendee information, etc.—and it gives me the creeps. This isn’t unique to Calendly as most booking software works exactly this way.</description>
+      <category>guide</category>
+  <category>zero-knowledge</category>
+  <category>appointment</category>
+  <category>scheduler</category>
+  <category>code</category>
+  <category>programming</category>
+  <category>development</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://noperator.dev/posts/zero-knowledge-appointment-scheduler/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1685.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 18 Sep 2024 19:36:40 +0000</pubDate>
+    </item>
+    <item>
       <title>The Ludic Framework</title>
       <link>https://getludic.dev/</link>
       <description>Lightweight framework for building dynamic HTML pages in pure Python in minutes with a component approach similar to React and without template engines.</description>
+      <category>interactive</category>
+  <category>fiction</category>
+  <category>narrative</category>
+  <category>games</category>
+  <category>tools</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://getludic.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1684.jpg" length="25000" type="image/jpeg"/>
@@ -30,6 +80,11 @@
       <title>Yes, you should use SQLite: Notion's creative SQLite usage for 20% faster loads</title>
       <link>https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</link>
       <description>(6 minute read) Thanks to WebAssembly, SQLite is even more magical on the web</description>
+      <category>databases</category>
+  <category>sqlite</category>
+  <category>applications</category>
+  <category>technology</category>
+  <category>articles</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1683.jpg" length="25000" type="image/jpeg"/>
@@ -39,6 +94,10 @@
       <title>Xnapper</title>
       <link>https://xnapper.com/app</link>
       <description>Turn your screenshots into stunning visuals - in seconds.</description>
+      <category>screenshots</category>
+  <category>apps</category>
+  <category>software</category>
+  <category>tools</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://xnapper.com/app</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1682.jpg" length="25000" type="image/jpeg"/>
@@ -48,6 +107,11 @@
       <title>Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube</title>
       <link>https://www.youtube.com/watch?v=IP_rtWEMR0o</link>
       <description>If you've been building websites for a while you "know" that some things require JS and that's just the way it is.  Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth scrolling, dialogs are all available without JS. Looking a little ahead, things like parallax scrolling, styleable selects and component-dependent styling are expected to make their CSS-debut as well.  In this talk I go through common patterns, explain how they can be implemented in CSS and HTML, how that's better and what accessibility implications they have, both for features available today and feature available soon™️.</description>
+      <category>videos</category>
+  <category>youtube</category>
+  <category>css</category>
+  <category>javascript</category>
+  <category>html</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=IP_rtWEMR0o</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1681.jpg" length="25000" type="image/jpeg"/>
@@ -57,6 +121,11 @@
       <title>HEX to Tailwind</title>
       <link>https://hextotailwind.com/</link>
       <description>Find the closest Tailwind color for a given HEX code. A simple online web app that is completely free.</description>
+      <category>tools</category>
+  <category>color</category>
+  <category>conversion</category>
+  <category>css</category>
+  <category>tailwind</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://hextotailwind.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1680.jpg" length="25000" type="image/jpeg"/>
@@ -66,6 +135,10 @@
       <title>Studio Project #3: A House for Oneself</title>
       <link>https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</link>
       <description>The process of designing a small dream house.</description>
+      <category>architecture</category>
+  <category>design</category>
+  <category>projects</category>
+  <category>house</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1679.jpg" length="25000" type="image/jpeg"/>
@@ -75,6 +148,10 @@
       <title>Any RSS feed recommendations that aren't news? - ~tech - Tildes</title>
       <link>https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</link>
       <description>RSS feed recommendations that aren't news</description>
+      <category>rss</category>
+  <category>feeds</category>
+  <category>info</category>
+  <category>content</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1678.jpg" length="25000" type="image/jpeg"/>
@@ -84,6 +161,10 @@
       <title>AI Predict</title>
       <link>https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</link>
       <description>Will the Buffalo Bills defeat the Miami Dolphins in their NFL game on 2024-09-12?</description>
+      <category>ai</category>
+  <category>predictions</category>
+  <category>web-applications</category>
+  <category>models</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1677.jpg" length="25000" type="image/jpeg"/>
@@ -93,6 +174,11 @@
       <title>The First HTML LSP That Reports Syntax Errors | Loris Cro's Blog</title>
       <link>https://kristoff.it/blog/first-html-lsp/</link>
       <description>The story of how I gained two world-firsts, somehow.</description>
+      <category>blog</category>
+  <category>html</category>
+  <category>lsp</category>
+  <category>development</category>
+  <category>code</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://kristoff.it/blog/first-html-lsp/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1676.jpg" length="25000" type="image/jpeg"/>
@@ -102,6 +188,14 @@
       <title>Python HTTP Clients: Requests vs. HTTPX vs. AIOHTTP | Speakeasy</title>
       <link>https://www.speakeasy.com/post/python-http-clients-requests-vs-httpx-vs-aiohttp</link>
       <description>Learn about the differences between Requests, HTTPX, and AIOHTTP, and when to use each library for your Python projects.</description>
+      <category>python</category>
+  <category>http</category>
+  <category>clients</category>
+  <category>requests</category>
+  <category>httpx</category>
+  <category>aiohttp</category>
+  <category>comparisons</category>
+  <category>code</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://www.speakeasy.com/post/python-http-clients-requests-vs-httpx-vs-aiohttp</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1675.jpg" length="25000" type="image/jpeg"/>
@@ -111,6 +205,9 @@
       <title>fastlite</title>
       <link>https://answerdotai.github.io/fastlite/</link>
       <description>A bit of extra usability for sqlite</description>
+      <category>sqlite</category>
+  <category>python</category>
+  <category>development</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://answerdotai.github.io/fastlite/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1673.jpg" length="25000" type="image/jpeg"/>
@@ -120,6 +217,11 @@
       <title>Building the Same App Using Various Web Frameworks</title>
       <link>https://eugeneyan.com/writing/web-frameworks/</link>
       <description>FastAPI, FastHTML, Next.js, SvelteKit, and thoughts on how coding assistants influence builders' choices.</description>
+      <category>web</category>
+  <category>frameworks</category>
+  <category>development</category>
+  <category>reviews</category>
+  <category>programming</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://eugeneyan.com/writing/web-frameworks/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1672.jpg" length="25000" type="image/jpeg"/>
@@ -129,6 +231,12 @@
       <title>gabrielpetersson/fast-grid: World's most performant DOM-based web table.</title>
       <link>https://github.com/gabrielpetersson/fast-grid/</link>
       <description>World's most performant DOM-based web table. Contribute to gabrielpetersson/fast-grid development by creating an account on GitHub.</description>
+      <category>adam</category>
+  <category>grid</category>
+  <category>table</category>
+  <category>filter</category>
+  <category>DOM</category>
+  <category>data</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://github.com/gabrielpetersson/fast-grid/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
@@ -138,6 +246,9 @@
       <title>Inertia.js - The Modern Monolith</title>
       <link>https://inertiajs.com/</link>
       <description>Create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.</description>
+      <category>frameworks</category>
+  <category>javascript</category>
+  <category>single-pageapps</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://inertiajs.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1670.jpg" length="25000" type="image/jpeg"/>
@@ -147,6 +258,9 @@
       <title>json-flatten, now with format documentation</title>
       <link>https://simonwillison.net/2024/Sep/7/json-flatten/</link>
       <description>json-flatten, now with format documentation-- a fun little Python library for converting JSON data into a flat key-value format, suitable for inclusion in an HTML form or query string.</description>
+      <category>python</category>
+  <category>json</category>
+  <category>adam</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://simonwillison.net/2024/Sep/7/json-flatten/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1669.jpg" length="25000" type="image/jpeg"/>
@@ -156,6 +270,11 @@
       <title>Watch Trending Movies</title>
       <link>https://watch.inzi.dev/</link>
       <description>Your Personal Streaming Oasis</description>
+      <category>tv</category>
+  <category>movies</category>
+  <category>tracking</category>
+  <category>entertainment</category>
+  <category>shows</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://watch.inzi.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1668.jpg" length="25000" type="image/jpeg"/>
@@ -165,6 +284,10 @@
       <title>teodorraul/snowballs: Snowballs is a hotkeys-first, async, always-on, GPT client for macOS.</title>
       <link>https://github.com/teodorraul/snowballs</link>
       <description>Snowballs is a hotkeys-first, async, always-on, GPT client for macOS. - teodorraul/snowballs</description>
+      <category>github</category>
+  <category>code</category>
+  <category>games</category>
+  <category>javascript</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://github.com/teodorraul/snowballs</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1667.jpg" length="25000" type="image/jpeg"/>
@@ -174,6 +297,8 @@
       <title>Anyquery - Use SQL for everything</title>
       <link>https://anyquery.dev/</link>
       <description>Query anything with SQL, from your Chrome tabs to your Notion database</description>
+      <category>adam</category>
+  <category>sql</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://anyquery.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1666.jpg" length="25000" type="image/jpeg"/>
@@ -183,6 +308,9 @@
       <title>Adventures building a spreadsheet engine in Python | James' Coffee Blog</title>
       <link>https://jamesg.blog/2024/08/21/spreadsheet-engine/</link>
       <description>Spreadsheets are a fascinating tool. With a spreadsheet, you can both store and structure data, and include formulas that run computations on the contents of a sheet. Every so often, I ask myself how a spreadsheet works. How do spreadsheets turn data and a list of formulas into a complete table of data? This week, I set out to build a spreadsheet engine in Python.</description>
+      <category>adam</category>
+  <category>python</category>
+  <category>spreadsheets</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://jamesg.blog/2024/08/21/spreadsheet-engine/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1665.jpg" length="25000" type="image/jpeg"/>
@@ -192,6 +320,11 @@
       <title>RSS 2.0 Specification (Current)</title>
       <link>https://www.rssboard.org/rss-specification</link>
       <description>The current version of the RSS 2.0 specification (2.0.11), published on March 30, 2009.</description>
+      <category>rss</category>
+  <category>specifications</category>
+  <category>web</category>
+  <category>feeds</category>
+  <category>documentation</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://www.rssboard.org/rss-specification</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1664.jpg" length="25000" type="image/jpeg"/>
@@ -201,6 +334,11 @@
       <title>It's 2020 and I made an RSS feed for my blog (with Python)</title>
       <link>https://gist.github.com/roycoding/c4af3c1ea4ae2d9b4ce9536dab20d3da</link>
       <description>It's 2020 and I made an RSS feed for my blog (with Python) - rss.md</description>
+      <category>code</category>
+  <category>github</category>
+  <category>python</category>
+  <category>data</category>
+  <category>programming</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://gist.github.com/roycoding/c4af3c1ea4ae2d9b4ce9536dab20d3da</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1662.jpg" length="25000" type="image/jpeg"/>
@@ -210,37 +348,14 @@
       <title>Memorable passsphrases (instead of passwords) • StrongPhrase.net</title>
       <link>https://strongphrase.net/</link>
       <description>Create a memorable, strong passphrase to use with your password manager, computer, etc.</description>
+      <category>passwords</category>
+  <category>security</category>
+  <category>tools</category>
+  <category>online</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://strongphrase.net/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1661.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 03 Sep 2024 15:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Departure Mono</title>
-      <link>https://departuremono.com/</link>
-      <description>Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://departuremono.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1660.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 03 Sep 2024 14:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>i-html, an inline-html import element</title>
-      <link>https://www.keithcirkel.co.uk/i-html/</link>
-      <description>An article by Keith Cirkel discussing the alpha version of 'i-html,' a text-based format for creating tactical displays in HTML.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.keithcirkel.co.uk/i-html/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sun, 01 Sep 2024 23:27:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArcherHume/jinja2-support: Highlighting and indentation for Jinja2 templates</title>
-      <link>https://github.com/ArcherHume/jinja2-support</link>
-      <description>A GitHub repository providing support for Jinja2, a popular templating engine for Python.</description>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/ArcherHume/jinja2-support</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1658.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sun, 01 Sep 2024 23:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
