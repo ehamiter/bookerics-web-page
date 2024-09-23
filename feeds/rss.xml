@@ -4,9 +4,9 @@
   <channel>
     <title><![CDATA[bookerics]]></title>
     <link>https://bookerics.com/feeds/rss.xml</link>
-    <description><![CDATA[Bookmarks, but for Erics]]></description>
+    <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 23 Sep 2024 21:54:44 +0000</pubDate>
+    <pubDate>Mon, 23 Sep 2024 22:04:20 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,22 +16,8 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 21:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 22:04:20 +0000</lastBuildDate>
         <item>
-      <title>arc53/DocsGPT: GPT-powered chat for documentation, chat with your documents</title>
-      <link>https://github.com/arc53/DocsGPT</link>
-      <description>GPT-powered chat for documentation, chat with your documents - arc53/DocsGPT</description>
-      <category>github</category>
-  <category>ai</category>
-  <category>documentation</category>
-  <category>projects</category>
-  <category>tools</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/arc53/DocsGPT</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 23 Sep 2024 14:46:49 +0000</pubDate>
-    </item>
-    <item>
       <title>The Hy programming language</title>
       <link>http://hylang.org/</link>
       <description>Official website of Hy, a Lisp dialect embedded in Python, providing documentation, tutorials, and community resources.</description>
@@ -361,6 +347,18 @@
       <guid isPermaLink="true">https://anyquery.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1666.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sat, 07 Sep 2024 00:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventures building a spreadsheet engine in Python | James' Coffee Blog</title>
+      <link>https://jamesg.blog/2024/08/21/spreadsheet-engine/</link>
+      <description>Spreadsheets are a fascinating tool. With a spreadsheet, you can both store and structure data, and include formulas that run computations on the contents of a sheet. Every so often, I ask myself how a spreadsheet works. How do spreadsheets turn data and a list of formulas into a complete table of data? This week, I set out to build a spreadsheet engine in Python.</description>
+      <category>adam</category>
+  <category>python</category>
+  <category>spreadsheets</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://jamesg.blog/2024/08/21/spreadsheet-engine/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1665.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 06 Sep 2024 23:41:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
