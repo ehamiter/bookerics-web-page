@@ -48,6 +48,8 @@
           padding: 2px 6px;
           border-radius: 4px;
           margin-right: 4px;
+          margin-bottom: .5em;
+          line-height: 1.5em;
           font-family: monospace;
           border: 1px solid #000;
           text-transform: lowercase;
