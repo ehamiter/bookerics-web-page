@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 23 Sep 2024 22:04:20 +0000</pubDate>
+    <pubDate>Wed, 25 Sep 2024 17:34:36 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,49 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 22:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 17:34:36 +0000</lastBuildDate>
         <item>
+      <title>Home - High Performance SQLite</title>
+      <link>https://highperformancesqlite.com/</link>
+      <description>A comprehensive video course by database educator Aaron Francis. Learn everything you need to confidently use SQLite in production.</description>
+      <category>database</category>
+  <category>sqlite</category>
+  <category>performance</category>
+  <category>guide</category>
+  <category>optimization</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://highperformancesqlite.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1693.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 25 Sep 2024 15:09:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>radiac/nanodjango: Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.</title>
+      <link>https://github.com/radiac/nanodjango</link>
+      <description>Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. - radiac/nanodjango</description>
+      <category>github</category>
+  <category>code</category>
+  <category>django</category>
+  <category>projects</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/radiac/nanodjango</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1692.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 25 Sep 2024 14:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>iommi 7.5.0 documentation</title>
+      <link>https://docs.iommi.rocks/en/latest/</link>
+      <description>iommi is a toolkit to build web apps faster. It’s built on Django but goes a lot further.</description>
+      <category>documentation</category>
+  <category>python</category>
+  <category>libraries</category>
+  <category>user-interfaces</category>
+  <category>coding</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://docs.iommi.rocks/en/latest/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1691.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 24 Sep 2024 22:10:17 +0000</pubDate>
+    </item>
+    <item>
       <title>The Hy programming language</title>
       <link>http://hylang.org/</link>
       <description>Official website of Hy, a Lisp dialect embedded in Python, providing documentation, tutorials, and community resources.</description>
@@ -323,42 +364,6 @@
       <guid isPermaLink="true">https://watch.inzi.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1668.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sat, 07 Sep 2024 01:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>teodorraul/snowballs: Snowballs is a hotkeys-first, async, always-on, GPT client for macOS.</title>
-      <link>https://github.com/teodorraul/snowballs</link>
-      <description>Snowballs is a hotkeys-first, async, always-on, GPT client for macOS. - teodorraul/snowballs</description>
-      <category>github</category>
-  <category>code</category>
-  <category>games</category>
-  <category>javascript</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/teodorraul/snowballs</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1667.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 01:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anyquery - Use SQL for everything</title>
-      <link>https://anyquery.dev/</link>
-      <description>Query anything with SQL, from your Chrome tabs to your Notion database</description>
-      <category>adam</category>
-  <category>sql</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://anyquery.dev/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1666.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 00:05:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adventures building a spreadsheet engine in Python | James' Coffee Blog</title>
-      <link>https://jamesg.blog/2024/08/21/spreadsheet-engine/</link>
-      <description>Spreadsheets are a fascinating tool. With a spreadsheet, you can both store and structure data, and include formulas that run computations on the contents of a sheet. Every so often, I ask myself how a spreadsheet works. How do spreadsheets turn data and a list of formulas into a complete table of data? This week, I set out to build a spreadsheet engine in Python.</description>
-      <category>adam</category>
-  <category>python</category>
-  <category>spreadsheets</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://jamesg.blog/2024/08/21/spreadsheet-engine/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1665.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 06 Sep 2024 23:41:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
