@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Wed, 25 Sep 2024 17:34:36 +0000</pubDate>
+    <pubDate>Sun, 29 Sep 2024 20:07:46 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,33 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Sep 2024 17:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 20:07:46 +0000</lastBuildDate>
         <item>
+      <title>s l o w  r o a d s</title>
+      <link>https://slowroads.io/</link>
+      <description>endless driving zen in your browser</description>
+      <category>games</category>
+  <category>driving</category>
+  <category>relaxation</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://slowroads.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1695.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sun, 29 Sep 2024 14:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>App Icon Generator</title>
+      <link>https://www.appicon.co/</link>
+      <description>Generate icons and images for mobile apps, android and iOS. No need to upload or download. Works on your browser</description>
+      <category>tools</category>
+  <category>apps</category>
+  <category>icons</category>
+  <category>design</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.appicon.co/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1694.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sat, 28 Sep 2024 23:30:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Home - High Performance SQLite</title>
       <link>https://highperformancesqlite.com/</link>
       <description>A comprehensive video course by database educator Aaron Francis. Learn everything you need to confidently use SQLite in production.</description>
@@ -338,32 +363,6 @@
       <guid isPermaLink="true">https://inertiajs.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1670.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Mon, 09 Sep 2024 14:08:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>json-flatten, now with format documentation</title>
-      <link>https://simonwillison.net/2024/Sep/7/json-flatten/</link>
-      <description>json-flatten, now with format documentation-- a fun little Python library for converting JSON data into a flat key-value format, suitable for inclusion in an HTML form or query string.</description>
-      <category>python</category>
-  <category>json</category>
-  <category>adam</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://simonwillison.net/2024/Sep/7/json-flatten/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1669.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 20:39:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch Trending Movies</title>
-      <link>https://watch.inzi.dev/</link>
-      <description>Your Personal Streaming Oasis</description>
-      <category>tv</category>
-  <category>movies</category>
-  <category>tracking</category>
-  <category>entertainment</category>
-  <category>shows</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://watch.inzi.dev/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1668.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 07 Sep 2024 01:27:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
