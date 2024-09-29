@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Sun, 29 Sep 2024 20:07:46 +0000</pubDate>
+    <pubDate>Sun, 29 Sep 2024 22:00:27 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Sep 2024 20:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 22:00:27 +0000</lastBuildDate>
         <item>
+      <title>The Monospace Web</title>
+      <link>https://owickstrom.github.io/the-monospace-web/</link>
+      <description>a minimalist design exploration</description>
+      <category>blog</category>
+  <category>web</category>
+  <category>code</category>
+  <category>tutorials</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://owickstrom.github.io/the-monospace-web/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1696.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sun, 29 Sep 2024 21:59:49 +0000</pubDate>
+    </item>
+    <item>
       <title>s l o w  r o a d s</title>
       <link>https://slowroads.io/</link>
       <description>endless driving zen in your browser</description>
@@ -351,18 +364,6 @@
       <guid isPermaLink="true">https://github.com/gabrielpetersson/fast-grid/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 10 Sep 2024 14:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inertia.js - The Modern Monolith</title>
-      <link>https://inertiajs.com/</link>
-      <description>Create modern single-page React, Vue, and Svelte apps using classic server-side routing. Works with any backend — tuned for Laravel.</description>
-      <category>frameworks</category>
-  <category>javascript</category>
-  <category>single-pageapps</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://inertiajs.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1670.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 09 Sep 2024 14:08:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
