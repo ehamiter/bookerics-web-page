@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 30 Sep 2024 14:21:26 +0000</pubDate>
+    <pubDate>Thu, 03 Oct 2024 00:05:55 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,23 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 14:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 00:05:55 +0000</lastBuildDate>
         <item>
+      <title>bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</title>
+      <link>https://github.com/bjesus/pipet</link>
+      <description>a swiss-army tool for scraping and extracting data from online assets, made for hackers  - bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</description>
+      <category>github</category>
+  <category>code</category>
+  <category>python</category>
+  <category>text</category>
+  <category>processing</category>
+  <category>library</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/bjesus/pipet</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1698.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 30 Sep 2024 21:07:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Dynamic Type on the Web • furbo.org</title>
       <link>https://furbo.org/2024/07/04/dynamic-type-on-the-web/</link>
       <description>This site now supports Dynamic Type on iOS and iPadOS. If you go to System Settings on your iPhone or iPad, and change the setting for Display &amp; Brightness &gt; Text Size, you’ll see the change reflected on this website. This is a big win for accessibility: many folks make this adjustment on their device […]</description>
@@ -351,21 +366,6 @@
       <guid isPermaLink="true">https://eugeneyan.com/writing/web-frameworks/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1672.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 11 Sep 2024 13:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>gabrielpetersson/fast-grid: World's most performant DOM-based web table.</title>
-      <link>https://github.com/gabrielpetersson/fast-grid/</link>
-      <description>World's most performant DOM-based web table. Contribute to gabrielpetersson/fast-grid development by creating an account on GitHub.</description>
-      <category>adam</category>
-  <category>grid</category>
-  <category>table</category>
-  <category>filter</category>
-  <category>DOM</category>
-  <category>data</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/gabrielpetersson/fast-grid/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 10 Sep 2024 14:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
