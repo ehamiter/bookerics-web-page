@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 04 Oct 2024 21:21:58 +0000</pubDate>
+    <pubDate>Fri, 04 Oct 2024 21:48:06 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,7 +16,7 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 21:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:48:06 +0000</lastBuildDate>
         <item>
       <title>Tiiny Color Palette Generator</title>
       <link>https://www.tiinycolor.com/</link>
@@ -36,9 +36,8 @@
       <description>One is a React framework focused on simplicity that lets you target both web and native at once with a single Vite plugin.</description>
       <category>developers</category>
   <category>applications</category>
-  <category>deploy</category>
   <category>platform</category>
-  <category>setup</category>
+  <category>react</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://onestack.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1702.jpg" length="25000" type="image/jpeg"/>
@@ -61,11 +60,10 @@
       <title>aSim - simulate anything through your phone</title>
       <link>https://asim.sh/</link>
       <description>simulate anything through your phone</description>
-      <category>sustainability</category>
+      <category>ai</category>
   <category>coding</category>
-  <category>green</category>
   <category>software</category>
-  <category>blogs</category>
+  <category>iOS</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://asim.sh/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
