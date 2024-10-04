@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 04 Oct 2024 14:24:24 +0000</pubDate>
+    <pubDate>Fri, 04 Oct 2024 20:58:18 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,62 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Oct 2024 14:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 20:58:18 +0000</lastBuildDate>
         <item>
+      <title>Tiiny Color Palette Generator</title>
+      <link>https://www.tiinycolor.com/</link>
+      <description>Generate beautiful color palettes effortlessly based on your input color.</description>
+      <category>design</category>
+  <category>colors</category>
+  <category>palettes</category>
+  <category>art</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.tiinycolor.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1703.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 04 Oct 2024 16:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>One, a React Framework | Tamagui</title>
+      <link>https://onestack.dev/</link>
+      <description>One is a React framework focused on simplicity that lets you target both web and native at once with a single Vite plugin.</description>
+      <category>developers</category>
+  <category>applications</category>
+  <category>deploy</category>
+  <category>platform</category>
+  <category>setup</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://onestack.dev/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1702.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 04 Oct 2024 16:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digital Twin APIs</title>
+      <link>https://www.tavus.io/</link>
+      <description>Tavus is the leading AI video research company that enables product development teams to build white-labeled digital twin experiences with easy-to-use APIs.</description>
+      <category>ai</category>
+  <category>technology</category>
+  <category>videos</category>
+  <category>personalization</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.tavus.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1701.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 04 Oct 2024 16:37:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>aSim - simulate anything through your phone</title>
+      <link>https://asim.sh/</link>
+      <description>simulate anything through your phone</description>
+      <category>sustainability</category>
+  <category>coding</category>
+  <category>green</category>
+  <category>software</category>
+  <category>blogs</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://asim.sh/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 04 Oct 2024 16:30:52 +0000</pubDate>
+    </item>
+    <item>
       <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
       <link>https://github.com/HackerNews/API</link>
       <description>Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub.</description>
@@ -257,20 +311,6 @@
       <pubDate>Tue, 17 Sep 2024 16:16:25 +0000</pubDate>
     </item>
     <item>
-      <title>Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube</title>
-      <link>https://www.youtube.com/watch?v=IP_rtWEMR0o</link>
-      <description>If you've been building websites for a while you "know" that some things require JS and that's just the way it is.  Turns out, spec writers and browser makers both are working hard to find common JS patterns and implementing them in CSS and HTML. Things like accordions, auto-suggest, smooth scrolling, dialogs are all available without JS. Looking a little ahead, things like parallax scrolling, styleable selects and component-dependent styling are expected to make their CSS-debut as well.  In this talk I go through common patterns, explain how they can be implemented in CSS and HTML, how that's better and what accessibility implications they have, both for features available today and feature available soon™️.</description>
-      <category>videos</category>
-  <category>youtube</category>
-  <category>css</category>
-  <category>javascript</category>
-  <category>html</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IP_rtWEMR0o</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1681.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 14 Sep 2024 21:39:37 +0000</pubDate>
-    </item>
-    <item>
       <title>HEX to Tailwind</title>
       <link>https://hextotailwind.com/</link>
       <description>Find the closest Tailwind color for a given HEX code. A simple online web app that is completely free.</description>
@@ -322,49 +362,6 @@
       <guid isPermaLink="true">https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1677.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 13 Sep 2024 00:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>The First HTML LSP That Reports Syntax Errors | Loris Cro's Blog</title>
-      <link>https://kristoff.it/blog/first-html-lsp/</link>
-      <description>The story of how I gained two world-firsts, somehow.</description>
-      <category>blog</category>
-  <category>html</category>
-  <category>lsp</category>
-  <category>development</category>
-  <category>code</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://kristoff.it/blog/first-html-lsp/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1676.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 12 Sep 2024 21:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Python HTTP Clients: Requests vs. HTTPX vs. AIOHTTP | Speakeasy</title>
-      <link>https://www.speakeasy.com/post/python-http-clients-requests-vs-httpx-vs-aiohttp</link>
-      <description>Learn about the differences between Requests, HTTPX, and AIOHTTP, and when to use each library for your Python projects.</description>
-      <category>python</category>
-  <category>http</category>
-  <category>clients</category>
-  <category>requests</category>
-  <category>httpx</category>
-  <category>aiohttp</category>
-  <category>comparisons</category>
-  <category>code</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.speakeasy.com/post/python-http-clients-requests-vs-httpx-vs-aiohttp</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1675.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 12 Sep 2024 21:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>fastlite</title>
-      <link>https://answerdotai.github.io/fastlite/</link>
-      <description>A bit of extra usability for sqlite</description>
-      <category>sqlite</category>
-  <category>python</category>
-  <category>development</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://answerdotai.github.io/fastlite/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1673.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 11 Sep 2024 18:32:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
