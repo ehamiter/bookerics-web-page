@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Sat, 05 Oct 2024 21:14:54 +0000</pubDate>
+    <pubDate>Sun, 06 Oct 2024 13:47:37 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,20 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Oct 2024 21:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 13:47:37 +0000</lastBuildDate>
         <item>
+      <title>Yaak – The API client for modern developers</title>
+      <link>https://yaak.app/</link>
+      <description>Call REST, GraphQL, and gRPC APIs from a simple and intuitive app</description>
+      <category>api</category>
+  <category>rest</category>
+  <category>software</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://yaak.app/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1704.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sun, 06 Oct 2024 13:45:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Tiiny Color Palette Generator</title>
       <link>https://www.tiinycolor.com/</link>
       <description>Generate beautiful color palettes effortlessly based on your input color.</description>
@@ -347,19 +359,6 @@
       <guid isPermaLink="true">https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1678.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 13 Sep 2024 21:38:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Predict</title>
-      <link>https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</link>
-      <description>Will the Buffalo Bills defeat the Miami Dolphins in their NFL game on 2024-09-12?</description>
-      <category>ai</category>
-  <category>predictions</category>
-  <category>web-applications</category>
-  <category>models</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://aipredict.fun/prediction/2763b405-1d7d-4537-bbae-ed663342fe63</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1677.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 13 Sep 2024 00:02:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
