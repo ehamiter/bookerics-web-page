@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 08 Oct 2024 16:29:15 +0000</pubDate>
+    <pubDate>Tue, 08 Oct 2024 21:43:22 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,34 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Oct 2024 16:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 21:43:22 +0000</lastBuildDate>
         <item>
+      <title>Major Hurricane Milton LIVE Tracker, Updates &amp; Forecast | Zoom Earth</title>
+      <link>https://zoom.earth/storms/milton-2024/</link>
+      <description>Live tracking map, satellite images and forecasts of Major Hurricane Milton 2024 in the Gulf of Mexico. Current wind speed 165mph. Max 180mph.</description>
+      <category>weather</category>
+  <category>storms</category>
+  <category>tracking</category>
+  <category>satellite</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://zoom.earth/storms/milton-2024/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1709.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 08 Oct 2024 21:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even Realities G1: Next-Gen Smart Glasses with Display</title>
+      <link>https://www.evenrealities.com/g1</link>
+      <description>G1 redefines prescription eyewear with smart features including QuickNote, Translate, Navigate, and Even AI. Enhance your everyday life with revolutiona...</description>
+      <category>virtual-reality</category>
+  <category>education</category>
+  <category>technology</category>
+  <category>learning</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.evenrealities.com/g1</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1708.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 08 Oct 2024 21:26:32 +0000</pubDate>
+    </item>
+    <item>
       <title>sq data wrangler</title>
       <link>https://sq.io/</link>
       <description>sq is a free/libre open-source data wrangling swiss-army knife to inspect, query, join, import, and export data. You could think of sq as jq for databases and documents, facilitating one-liners like:  sq '@postgres_db | .actor | .first_name, .last_name | .[0:5]'</description>
@@ -331,33 +357,6 @@
       <guid isPermaLink="true">https://getludic.dev/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1684.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 18 Sep 2024 17:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yes, you should use SQLite: Notion's creative SQLite usage for 20% faster loads</title>
-      <link>https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</link>
-      <description>(6 minute read) Thanks to WebAssembly, SQLite is even more magical on the web</description>
-      <category>databases</category>
-  <category>sqlite</category>
-  <category>applications</category>
-  <category>technology</category>
-  <category>articles</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://stacksweep.substack.com/p/yes-you-should-use-sqlite-notions</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1683.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 17:03:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xnapper</title>
-      <link>https://xnapper.com/app</link>
-      <description>Turn your screenshots into stunning visuals - in seconds.</description>
-      <category>screenshots</category>
-  <category>apps</category>
-  <category>software</category>
-  <category>tools</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://xnapper.com/app</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1682.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 17 Sep 2024 16:16:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
