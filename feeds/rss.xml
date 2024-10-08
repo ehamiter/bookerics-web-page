@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Sun, 06 Oct 2024 13:47:37 +0000</pubDate>
+    <pubDate>Tue, 08 Oct 2024 16:29:15 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,47 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2024 13:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 16:29:15 +0000</lastBuildDate>
         <item>
+      <title>sq data wrangler</title>
+      <link>https://sq.io/</link>
+      <description>sq is a free/libre open-source data wrangling swiss-army knife to inspect, query, join, import, and export data. You could think of sq as jq for databases and documents, facilitating one-liners like:  sq '@postgres_db | .actor | .first_name, .last_name | .[0:5]'</description>
+      <category>adam</category>
+  <category>sql</category>
+  <category>data</category>
+  <category>open-source</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://sq.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1707.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 08 Oct 2024 16:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>OkBookmarks</title>
+      <link>https://okbookmarks.com/</link>
+      <description>Never forget about a bookmark again with this free. Bring all your URLs to okbookmarks and search for the content whenever you need it.</description>
+      <category>bookmarks</category>
+  <category>organization</category>
+  <category>websites</category>
+  <category>management</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://okbookmarks.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1706.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 07 Oct 2024 18:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UV with GitHub Actions to run an RSS to README project</title>
+      <link>https://simonwillison.net/2024/Oct/5/uv-with-github-actions-to-run-an-rss-to-readme-project/</link>
+      <description>Jeff Triplett demonstrates a very neat pattern for using [uv](https://docs.astral.sh/uv/) to run Python scripts with their dependencies inside of GitHub Actions.</description>
+      <category>github</category>
+  <category>automation</category>
+  <category>rss</category>
+  <category>programming</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://simonwillison.net/2024/Oct/5/uv-with-github-actions-to-run-an-rss-to-readme-project/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1705.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sun, 06 Oct 2024 14:01:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Yaak – The API client for modern developers</title>
       <link>https://yaak.app/</link>
       <description>Call REST, GraphQL, and gRPC APIs from a simple and intuitive app</description>
@@ -319,46 +358,6 @@
       <guid isPermaLink="true">https://xnapper.com/app</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1682.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 17 Sep 2024 16:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>HEX to Tailwind</title>
-      <link>https://hextotailwind.com/</link>
-      <description>Find the closest Tailwind color for a given HEX code. A simple online web app that is completely free.</description>
-      <category>tools</category>
-  <category>color</category>
-  <category>conversion</category>
-  <category>css</category>
-  <category>tailwind</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://hextotailwind.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1680.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 13 Sep 2024 22:01:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Studio Project #3: A House for Oneself</title>
-      <link>https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</link>
-      <description>The process of designing a small dream house.</description>
-      <category>architecture</category>
-  <category>design</category>
-  <category>projects</category>
-  <category>house</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.jackcheng.com/studio-project-3-a-house-for-oneself/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1679.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 13 Sep 2024 21:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Any RSS feed recommendations that aren't news? - ~tech - Tildes</title>
-      <link>https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</link>
-      <description>RSS feed recommendations that aren't news</description>
-      <category>rss</category>
-  <category>feeds</category>
-  <category>info</category>
-  <category>content</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://tildes.net/~tech/16od/any_rss_feed_recommendations_that_arent_news</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1678.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 13 Sep 2024 21:38:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
