@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 08 Oct 2024 21:43:22 +0000</pubDate>
+    <pubDate>Wed, 09 Oct 2024 10:49:15 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,22 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Oct 2024 21:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 10:49:15 +0000</lastBuildDate>
         <item>
+      <title>lychee</title>
+      <link>https://lychee.cli.rs/</link>
+      <description>A fast, async link checker written in Rust. Finds broken hyperlinks and mail addresses, supports Markdown, HTML and more, simple and lightweight.</description>
+      <category>rust</category>
+  <category>tools</category>
+  <category>cli</category>
+  <category>web</category>
+  <category>hyperlinks</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://lychee.cli.rs/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1710.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 08 Oct 2024 23:23:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Major Hurricane Milton LIVE Tracker, Updates &amp; Forecast | Zoom Earth</title>
       <link>https://zoom.earth/storms/milton-2024/</link>
       <description>Live tracking map, satellite images and forecasts of Major Hurricane Milton 2024 in the Gulf of Mexico. Current wind speed 165mph. Max 180mph.</description>
@@ -343,20 +357,6 @@
       <guid isPermaLink="true">https://noperator.dev/posts/zero-knowledge-appointment-scheduler/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1685.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 18 Sep 2024 19:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ludic Framework</title>
-      <link>https://getludic.dev/</link>
-      <description>Lightweight framework for building dynamic HTML pages in pure Python in minutes with a component approach similar to React and without template engines.</description>
-      <category>interactive</category>
-  <category>fiction</category>
-  <category>narrative</category>
-  <category>games</category>
-  <category>tools</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://getludic.dev/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1684.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 17:07:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
