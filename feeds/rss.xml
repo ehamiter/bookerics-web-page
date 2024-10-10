@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Wed, 09 Oct 2024 14:23:33 +0000</pubDate>
+    <pubDate>Thu, 10 Oct 2024 19:09:15 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,48 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 14:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 19:09:15 +0000</lastBuildDate>
         <item>
+      <title>uithub - Easily ask your LLM code questions</title>
+      <link>https://uithub.com/</link>
+      <description>With uithub API, you can easily get LLM context in your daily work, perform AI repo analysis at scale, and power the next generation of development tools and applications.</description>
+      <category>development</category>
+  <category>design</category>
+  <category>resources</category>
+  <category>ui</category>
+  <category>ux</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://uithub.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1713.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 10 Oct 2024 19:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>trafilatura - gather text on the Web</title>
+      <link>https://trafilatura.readthedocs.io/en/latest/</link>
+      <description>Trafilatura is a Python package and command-line tool designed to gather text on the Web. Its main applications are web crawling, downloads, scraping, and extraction of main texts, comments and metadata.</description>
+      <category>web-scraping</category>
+  <category>python</category>
+  <category>content-extraction</category>
+  <category>library</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://trafilatura.readthedocs.io/en/latest/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1712.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 10 Oct 2024 15:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>player.style - Video &amp; audio player themes for every web player &amp; framework</title>
+      <link>https://player.style/</link>
+      <description>Video and audio player themes that work for any web player (Video.js, Youtube embeds, and more), and with every web app framework (HTML, React, and more). Open source and built with Media Chrome so they’re fully customizable using just HTML and CSS.</description>
+      <category>fashion</category>
+  <category>shopping</category>
+  <category>luxury</category>
+  <category>design</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://player.style/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1711.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 09 Oct 2024 16:38:05 +0000</pubDate>
+    </item>
+    <item>
       <title>lychee</title>
       <link>https://lychee.cli.rs/</link>
       <description>A fast, async link checker written in Rust. Finds broken hyperlinks and mail addresses, supports Markdown, HTML and more, simple and lightweight.</description>
@@ -312,46 +352,6 @@
       <guid isPermaLink="true">https://www.joshwcomeau.com/css/has/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1688.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 19 Sep 2024 18:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/</link>
-      <description>Convert email newsletters into Atom feeds</description>
-      <category>newsletters</category>
-  <category>email</category>
-  <category>rss</category>
-  <category>feeds</category>
-  <category>services</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://kill-the-newsletter.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1687.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 19:46:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>siftrss | Filter your RSS feeds and throw away the junk</title>
-      <link>https://siftrss.com/</link>
-      <description>Add powerful filters to any Atom or RSS feed for free!  No registration, no limitations, no ads—just a handy tool to declutter your feeds.</description>
-      <category>rss</category>
-  <category>feeds</category>
-  <category>filtering</category>
-  <category>management</category>
-  <category>web</category>
-  <category>service</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://siftrss.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1686.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 19:46:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zero-knowledge appointment scheduler | noperator</title>
-      <link>https://noperator.dev/posts/zero-knowledge-appointment-scheduler/</link>
-      <description>I recently (finally) started using online appointment scheduling software. There are many players in this space, but Calendly is the most popular and featureful. It’s awesome—but in order to use it, you have to give it direct access to whichever calendars you want it to check for conflicts. That means access to all sensitive details like online meeting URLs, attendee information, etc.—and it gives me the creeps. This isn’t unique to Calendly as most booking software works exactly this way.</description>
-      <category>appointment</category>
-  <category>scheduler</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://noperator.dev/posts/zero-knowledge-appointment-scheduler/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1685.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 18 Sep 2024 19:36:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
