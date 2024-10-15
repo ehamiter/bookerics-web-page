@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 15 Oct 2024 15:42:41 +0000</pubDate>
+    <pubDate>Tue, 15 Oct 2024 21:12:42 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,70 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 15:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 21:12:42 +0000</lastBuildDate>
         <item>
+      <title>uithub - Easily ask your LLM code questions</title>
+      <link>https://uithub.com/</link>
+      <description>UIHub is a platform that offers resources and inspiration for designers, providing tools and templates to enhance user interface and user experience design.</description>
+      <category>design</category>
+  <category>resources</category>
+  <category>ui</category>
+  <category>ux</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://uithub.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1723.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 21:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even Realities G1: Next-Gen Smart Glasses with Display</title>
+      <link>https://www.evenrealities.com/g1</link>
+      <description>G1 redefines prescription eyewear with smart features including QuickNote, Translate, Navigate, and Even AI. Enhance your everyday life with revolutiona...</description>
+      <category>virtual-reality</category>
+  <category>education</category>
+  <category>therapy</category>
+  <category>technology</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.evenrealities.com/g1</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1722.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 21:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Unison language</title>
+      <link>https://www.unison-lang.org/</link>
+      <description>A friendly programming language from the future.</description>
+      <category>programming</category>
+  <category>languages</category>
+  <category>software</category>
+  <category>collaboration</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.unison-lang.org/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1721.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 20:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database</title>
+      <link>https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html</link>
+      <description>Compare LocalStorage, IndexedDB, Cookies, OPFS, and WASM-SQLite for web storage, performance, limits, and best practices for modern web apps.</description>
+      <category>edede</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1720.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 20:39:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sqlime - SQLite Playground</title>
+      <link>https://sqlime.org/</link>
+      <description>Sqlime is an online SQLite playground for debugging and sharing SQL snippets.</description>
+      <category>sqlite</category>
+  <category>sql</category>
+  <category>db</category>
+  <category>web</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://sqlime.org/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1719.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 19:39:25 +0000</pubDate>
+    </item>
+    <item>
       <title>scaffoldly/scaffoldly-examples at python-flask-poetry</title>
       <link>https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</link>
       <description>The Scaffoldly Toolchain: Deploy anything to AWS Lambda in Minutes</description>
@@ -36,10 +98,8 @@
       <title>MynaUI Icons - MynaUI - Made with TailwindCSS, shadcn/ui, Radix UI and Figma</title>
       <link>https://mynaui.com/icons</link>
       <description>Beautifully crafted open source icons for your next project.</description>
-      <category>diving</category>
-  <category>community</category>
-  <category>notable</category>
-  <category>figures</category>
+      <category>icons</category>
+  <category>ui</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://mynaui.com/icons</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1717.jpg" length="25000" type="image/jpeg"/>
@@ -71,20 +131,6 @@
       <guid isPermaLink="true">https://bolt.new/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1714.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 14:12:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>uithub - Easily ask your LLM code questions</title>
-      <link>https://uithub.com/</link>
-      <description>With uithub API, you can easily get LLM context in your daily work, perform AI repo analysis at scale, and power the next generation of development tools and applications.</description>
-      <category>development</category>
-  <category>design</category>
-  <category>resources</category>
-  <category>ui</category>
-  <category>ux</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://uithub.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1713.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 10 Oct 2024 19:00:32 +0000</pubDate>
     </item>
     <item>
       <title>trafilatura - gather text on the Web</title>
@@ -138,19 +184,6 @@
       <guid isPermaLink="true">https://zoom.earth/storms/milton-2024/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1709.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 08 Oct 2024 21:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Even Realities G1: Next-Gen Smart Glasses with Display</title>
-      <link>https://www.evenrealities.com/g1</link>
-      <description>G1 redefines prescription eyewear with smart features including QuickNote, Translate, Navigate, and Even AI. Enhance your everyday life with revolutiona...</description>
-      <category>virtual-reality</category>
-  <category>education</category>
-  <category>technology</category>
-  <category>learning</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.evenrealities.com/g1</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1708.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 21:26:32 +0000</pubDate>
     </item>
     <item>
       <title>sq data wrangler</title>
@@ -309,46 +342,6 @@
       <guid isPermaLink="true">https://owickstrom.github.io/the-monospace-web/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1696.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sun, 29 Sep 2024 21:59:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>App Icon Generator</title>
-      <link>https://www.appicon.co/</link>
-      <description>Generate icons and images for mobile apps, android and iOS. No need to upload or download. Works on your browser</description>
-      <category>tools</category>
-  <category>apps</category>
-  <category>icons</category>
-  <category>design</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.appicon.co/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1694.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 28 Sep 2024 23:30:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Home - High Performance SQLite</title>
-      <link>https://highperformancesqlite.com/</link>
-      <description>A comprehensive video course by database educator Aaron Francis. Learn everything you need to confidently use SQLite in production.</description>
-      <category>database</category>
-  <category>sqlite</category>
-  <category>performance</category>
-  <category>guide</category>
-  <category>optimization</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://highperformancesqlite.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1693.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 25 Sep 2024 15:09:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>radiac/nanodjango: Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.</title>
-      <link>https://github.com/radiac/nanodjango</link>
-      <description>Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. - radiac/nanodjango</description>
-      <category>github</category>
-  <category>code</category>
-  <category>django</category>
-  <category>projects</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/radiac/nanodjango</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1692.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 25 Sep 2024 14:36:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
