@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 15 Oct 2024 15:21:31 +0000</pubDate>
+    <pubDate>Tue, 15 Oct 2024 15:41:47 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,23 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 15:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:41:47 +0000</lastBuildDate>
         <item>
+      <title>scaffoldly/scaffoldly-examples at python-flask-poetry</title>
+      <link>https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</link>
+      <description>The Scaffoldly Toolchain: Deploy anything to AWS Lambda in Minutes</description>
+      <category>python</category>
+  <category>web</category>
+  <category>apps</category>
+  <category>aws</category>
+  <category>lambda</category>
+  <category>flask</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1718.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 15:40:49 +0000</pubDate>
+    </item>
+    <item>
       <title>MynaUI Icons - MynaUI - Made with TailwindCSS, shadcn/ui, Radix UI and Figma</title>
       <link>https://mynaui.com/icons</link>
       <description>Beautifully crafted open source icons for your next project.</description>
@@ -334,20 +349,6 @@
       <guid isPermaLink="true">https://github.com/radiac/nanodjango</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1692.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 25 Sep 2024 14:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>iommi 7.5.0 documentation</title>
-      <link>https://docs.iommi.rocks/en/latest/</link>
-      <description>iommi is a toolkit to build web apps faster. It’s built on Django but goes a lot further.</description>
-      <category>documentation</category>
-  <category>python</category>
-  <category>libraries</category>
-  <category>user-interfaces</category>
-  <category>coding</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://docs.iommi.rocks/en/latest/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1691.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 24 Sep 2024 22:10:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
