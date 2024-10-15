@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 10 Oct 2024 19:09:15 +0000</pubDate>
+    <pubDate>Tue, 15 Oct 2024 15:21:31 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,48 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Oct 2024 19:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:21:31 +0000</lastBuildDate>
         <item>
+      <title>MynaUI Icons - MynaUI - Made with TailwindCSS, shadcn/ui, Radix UI and Figma</title>
+      <link>https://mynaui.com/icons</link>
+      <description>Beautifully crafted open source icons for your next project.</description>
+      <category>diving</category>
+  <category>community</category>
+  <category>notable</category>
+  <category>figures</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://mynaui.com/icons</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1717.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 15:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>shovel - productivity tool with journal &amp; todo list</title>
+      <link>https://ovel.sh/</link>
+      <description>Boost productivity with our ADHD-friendly app. Features tools for work and study, including journal, todo lists, and time management. AI powered organization coming soon to iPhone, iPad, and Android.</description>
+      <category>adhd</category>
+  <category>productivity</category>
+  <category>pomodoro</category>
+  <category>journal</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://ovel.sh/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1715.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 14:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>bolt.new</title>
+      <link>https://bolt.new/</link>
+      <description>Prompt, run, edit &amp; deploy web apps</description>
+      <category>apps</category>
+  <category>web</category>
+  <category>llm</category>
+  <category>chatgpt</category>
+  <category>ai</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://bolt.new/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1714.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 14:12:16 +0000</pubDate>
+    </item>
+    <item>
       <title>uithub - Easily ask your LLM code questions</title>
       <link>https://uithub.com/</link>
       <description>With uithub API, you can easily get LLM context in your daily work, perform AI repo analysis at scale, and power the next generation of development tools and applications.</description>
@@ -308,50 +348,6 @@
       <guid isPermaLink="true">https://docs.iommi.rocks/en/latest/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1691.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 24 Sep 2024 22:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hy programming language</title>
-      <link>http://hylang.org/</link>
-      <description>Official website of Hy, a Lisp dialect embedded in Python, providing documentation, tutorials, and community resources.</description>
-      <category>programming</category>
-  <category>languages</category>
-  <category>python</category>
-  <category>lisp</category>
-  <category>documentation</category>
-  <category>community</category>
-  <category>tutorials</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">http://hylang.org/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1690.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 23 Sep 2024 14:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Always use an enum for your status field · Applied Cartography</title>
-      <link>https://jmduke.com/posts/post/enums/</link>
-      <description>A blog post explaining the use and benefits of enums in programming.</description>
-      <category>blog</category>
-  <category>programming</category>
-  <category>enums</category>
-  <category>code</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://jmduke.com/posts/post/enums/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1689.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sat, 21 Sep 2024 19:04:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Undeniable Utility Of CSS :has • Josh W. Comeau</title>
-      <link>https://www.joshwcomeau.com/css/has/</link>
-      <description>Of all the latest and greatest CSS features, the “:has” pseudo-class wasn’t exactly at the top of my wishlist. Once I started using it, however, I kept discovering incredible things I could do with it. It’s now become a core part of my toolkit! In this blog post, I'll show you some practical real-world problems I solved using “:has”, as well as some wild experiments that blew my mind!</description>
-      <category>css</category>
-  <category>web</category>
-  <category>development</category>
-  <category>tutorials</category>
-  <category>code</category>
-  <category>frontend</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.joshwcomeau.com/css/has/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1688.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 19 Sep 2024 18:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
