@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 15 Oct 2024 21:12:42 +0000</pubDate>
+    <pubDate>Fri, 18 Oct 2024 22:04:44 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 21:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:04:44 +0000</lastBuildDate>
         <item>
+      <title>The Top 100 Gen AI Consumer Apps - 3rd Edition | Andreessen Horowitz</title>
+      <link>https://a16z.com/100-gen-ai-apps-3/</link>
+      <description>We crunched the data to find out: Which gen AI apps are people actually using? And which are they returning to, versus dabbling and dropping?</description>
+      <category>artificial-intelligence</category>
+  <category>applications</category>
+  <category>technology</category>
+  <category>innovation</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://a16z.com/100-gen-ai-apps-3/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1724.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 17 Oct 2024 00:50:38 +0000</pubDate>
+    </item>
+    <item>
       <title>uithub - Easily ask your LLM code questions</title>
       <link>https://uithub.com/</link>
       <description>UIHub is a platform that offers resources and inspiration for designers, providing tools and templates to enhance user interface and user experience design.</description>
@@ -329,19 +342,6 @@
       <guid isPermaLink="true">https://furbo.org/2024/07/04/dynamic-type-on-the-web/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1697.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Sun, 29 Sep 2024 22:10:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Monospace Web</title>
-      <link>https://owickstrom.github.io/the-monospace-web/</link>
-      <description>a minimalist design exploration</description>
-      <category>blog</category>
-  <category>web</category>
-  <category>code</category>
-  <category>tutorials</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://owickstrom.github.io/the-monospace-web/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1696.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sun, 29 Sep 2024 21:59:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
