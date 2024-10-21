@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 18 Oct 2024 22:04:44 +0000</pubDate>
+    <pubDate>Mon, 21 Oct 2024 22:40:01 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 22:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 22:40:01 +0000</lastBuildDate>
         <item>
+      <title>Neon Serverless Postgres — Ship faster</title>
+      <link>https://neon.tech/</link>
+      <description>The database you love, on a serverless platform designed to help you build reliable and scalable applications faster.</description>
+      <category>technology</category>
+  <category>cloud-computing</category>
+  <category>database</category>
+  <category>postgresql</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://neon.tech/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1725.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 21 Oct 2024 20:54:36 +0000</pubDate>
+    </item>
+    <item>
       <title>The Top 100 Gen AI Consumer Apps - 3rd Edition | Andreessen Horowitz</title>
       <link>https://a16z.com/100-gen-ai-apps-3/</link>
       <description>We crunched the data to find out: Which gen AI apps are people actually using? And which are they returning to, versus dabbling and dropping?</description>
@@ -68,16 +81,6 @@
       <guid isPermaLink="true">https://www.unison-lang.org/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1721.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 20:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite | RxDB - JavaScript Database</title>
-      <link>https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html</link>
-      <description>Compare LocalStorage, IndexedDB, Cookies, OPFS, and WASM-SQLite for web storage, performance, limits, and best practices for modern web apps.</description>
-      <category>edede</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1720.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 20:39:29 +0000</pubDate>
     </item>
     <item>
       <title>Sqlime - SQLite Playground</title>
