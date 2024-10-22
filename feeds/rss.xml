@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 21 Oct 2024 22:40:01 +0000</pubDate>
+    <pubDate>Tue, 22 Oct 2024 22:46:00 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,47 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Oct 2024 22:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 22:46:00 +0000</lastBuildDate>
         <item>
+      <title>Ghostty 1.0 is Coming – Mitchell Hashimoto</title>
+      <link>https://mitchellh.com/writing/ghostty-is-coming</link>
+      <description>Ghostty 1.0 aims to be the best drop-in replacement for your current terminal emulator on macOS and Linux. Ghostty will be fast, feature-rich, and have a platform-native GUI while being the most standards-compliant terminal emulator available.</description>
+      <category>ghostty</category>
+  <category>static-sites</category>
+  <category>web-development</category>
+  <category>tools</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-is-coming</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1728.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 22 Oct 2024 22:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Content-first Bookmarking - Notado</title>
+      <link>https://notado.app/</link>
+      <description>Content-first Bookmarking</description>
+      <category>annotation</category>
+  <category>document</category>
+  <category>study</category>
+  <category>tool</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://notado.app/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1727.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 22 Oct 2024 17:46:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kullish by Notado: BYOL Comment Aggregation</title>
+      <link>https://kulli.sh/</link>
+      <description>'Bring Your Own Links' Comment Aggregation</description>
+      <category>web</category>
+  <category>development</category>
+  <category>templates</category>
+  <category>css</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://kulli.sh/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1726.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 22 Oct 2024 17:41:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Neon Serverless Postgres — Ship faster</title>
       <link>https://neon.tech/</link>
       <description>The database you love, on a serverless platform designed to help you build reliable and scalable applications faster.</description>
@@ -303,48 +342,6 @@
       <guid isPermaLink="true">https://asim.sh/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 04 Oct 2024 16:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
-      <link>https://github.com/HackerNews/API</link>
-      <description>Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub.</description>
-      <category>github</category>
-  <category>api</category>
-  <category>hacker</category>
-  <category>news</category>
-  <category>data</category>
-  <category>code</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/HackerNews/API</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1699.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 04 Oct 2024 14:08:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</title>
-      <link>https://github.com/bjesus/pipet</link>
-      <description>a swiss-army tool for scraping and extracting data from online assets, made for hackers  - bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</description>
-      <category>github</category>
-  <category>code</category>
-  <category>python</category>
-  <category>text</category>
-  <category>processing</category>
-  <category>library</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/bjesus/pipet</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1698.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 30 Sep 2024 21:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dynamic Type on the Web • furbo.org</title>
-      <link>https://furbo.org/2024/07/04/dynamic-type-on-the-web/</link>
-      <description>This site now supports Dynamic Type on iOS and iPadOS. If you go to System Settings on your iPhone or iPad, and change the setting for Display &amp; Brightness &gt; Text Size, you’ll see the change reflected on this website. This is a big win for accessibility: many folks make this adjustment on their device […]</description>
-      <category>web</category>
-  <category>typography</category>
-  <category>design</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://furbo.org/2024/07/04/dynamic-type-on-the-web/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1697.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sun, 29 Sep 2024 22:10:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
