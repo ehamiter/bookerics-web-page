@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 28 Oct 2024 20:39:52 +0000</pubDate>
+    <pubDate>Mon, 28 Oct 2024 21:44:54 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,7 +16,7 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2024 20:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:44:54 +0000</lastBuildDate>
         <item>
       <title>Use Supabase with iOS and SwiftUI | Supabase Docs</title>
       <link>https://supabase.com/docs/guides/getting-started/quickstarts/ios-swiftui</link>
