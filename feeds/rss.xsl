@@ -17,6 +17,8 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
             border-radius: 8px;
             transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            box-sizing: border-box;
+            overflow: hidden;
         }
         div.item.inner:hover {
             transform: translateY(-5px);
@@ -28,12 +30,14 @@
             margin-bottom: 10px;
             color: #333;
         }
-        div.item.inner .image {
-            max-width: 100%;
+        div.item.inner .item {
+            width: 100%;
+            max-width: 515px;
             height: auto;
             border-radius: 6px;
-            margin-bottom: 15px;
+            margin: 15px auto;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            display: block;
         }
         div.item.inner .description {
             font-size: 1em;
