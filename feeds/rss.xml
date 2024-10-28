@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 28 Oct 2024 21:44:54 +0000</pubDate>
+    <pubDate>Mon, 28 Oct 2024 22:19:01 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,33 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2024 21:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 22:19:01 +0000</lastBuildDate>
         <item>
+      <title>soimort/you-get: Dumb downloader that scrapes the web</title>
+      <link>https://github.com/soimort/you-get</link>
+      <description>Dumb downloader that scrapes the web - soimort/you-get</description>
+      <category>python</category>
+  <category>web</category>
+  <category>scraper</category>
+  <category>media</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/soimort/you-get</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1728.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 28 Oct 2024 22:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>rust-blog/posts/learning-rust-in-2024.md</title>
+      <link>https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2024.md</link>
+      <description>This is my opinionated guide on how to go from knowing nothing about Rust to being kinda okay at Rust quickly as possible. This is what I would tell myself if I was starting today.</description>
+      <category>rust</category>
+  <category>learning</category>
+  <category>programming</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2024.md</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1727.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 28 Oct 2024 22:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Use Supabase with iOS and SwiftUI | Supabase Docs</title>
       <link>https://supabase.com/docs/guides/getting-started/quickstarts/ios-swiftui</link>
       <description>Learn how to create a Supabase project, add some sample data to your database, and query the data from an iOS app.</description>
@@ -35,7 +60,7 @@
       <link>https://til.simonwillison.net/python/uv-cli-apps</link>
       <description>I finally figured out a process that works for me for hacking on Python CLI utilities using uv to manage my development environment, thanks to a little bit of help from Charlie Marsh.</description>
       <category>python</category>
-  <category>command-line</category>
+  <category>cli</category>
   <category>programming</category>
   <category>guides</category>
       <author>eric@bookerics.com (Eric)</author>
@@ -316,35 +341,6 @@
       <guid isPermaLink="true">https://asim.sh/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 04 Oct 2024 16:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
-      <link>https://github.com/HackerNews/API</link>
-      <description>Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub.</description>
-      <category>github</category>
-  <category>api</category>
-  <category>news</category>
-  <category>data</category>
-  <category>code</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/HackerNews/API</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1699.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 04 Oct 2024 14:08:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</title>
-      <link>https://github.com/bjesus/pipet</link>
-      <description>a swiss-army tool for scraping and extracting data from online assets, made for hackers  - bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</description>
-      <category>github</category>
-  <category>code</category>
-  <category>python</category>
-  <category>text</category>
-  <category>processing</category>
-  <category>library</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/bjesus/pipet</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1698.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 30 Sep 2024 21:07:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
