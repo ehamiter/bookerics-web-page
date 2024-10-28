@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 22 Oct 2024 22:47:16 +0000</pubDate>
+    <pubDate>Mon, 28 Oct 2024 20:21:06 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,55 +16,32 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Oct 2024 22:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 20:21:06 +0000</lastBuildDate>
         <item>
-      <title>Ghostty 1.0 is Coming – Mitchell Hashimoto</title>
-      <link>https://mitchellh.com/writing/ghostty-is-coming</link>
-      <description>Ghostty 1.0 aims to be the best drop-in replacement for your current terminal emulator on macOS and Linux. Ghostty will be fast, feature-rich, and have a platform-native GUI while being the most standards-compliant terminal emulator available.</description>
-      <category>terminal</category>
-  <category>app</category>
-  <category>tools</category>
+      <title>Use Supabase with iOS and SwiftUI | Supabase Docs</title>
+      <link>https://supabase.com/docs/guides/getting-started/quickstarts/ios-swiftui</link>
+      <description>Learn how to create a Supabase project, add some sample data to your database, and query the data from an iOS app.</description>
+      <category>supabase</category>
+  <category>ios</category>
+  <category>swiftui</category>
+  <category>guides</category>
       <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-is-coming</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1728.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 22 Oct 2024 22:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Content-first Bookmarking - Notado</title>
-      <link>https://notado.app/</link>
-      <description>Content-first Bookmarking</description>
-      <category>annotation</category>
-  <category>document</category>
-  <category>study</category>
-  <category>tool</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://notado.app/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1727.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 22 Oct 2024 17:46:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kullish by Notado: BYOL Comment Aggregation</title>
-      <link>https://kulli.sh/</link>
-      <description>'Bring Your Own Links' Comment Aggregation</description>
-      <category>web</category>
-  <category>tools</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://kulli.sh/</guid>
+      <guid isPermaLink="true">https://supabase.com/docs/guides/getting-started/quickstarts/ios-swiftui</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1726.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 22 Oct 2024 17:41:19 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 22:31:34 +0000</pubDate>
     </item>
     <item>
-      <title>Neon Serverless Postgres — Ship faster</title>
-      <link>https://neon.tech/</link>
-      <description>The database you love, on a serverless platform designed to help you build reliable and scalable applications faster.</description>
-      <category>technology</category>
-  <category>cloud-computing</category>
-  <category>database</category>
-  <category>postgresql</category>
+      <title>Using uv to develop Python command-line applications | Simon Willison’s TILs</title>
+      <link>https://til.simonwillison.net/python/uv-cli-apps</link>
+      <description>I finally figured out a process that works for me for hacking on Python CLI utilities using uv to manage my development environment, thanks to a little bit of help from Charlie Marsh.</description>
+      <category>python</category>
+  <category>command-line</category>
+  <category>programming</category>
+  <category>guides</category>
       <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://neon.tech/</guid>
+      <guid isPermaLink="true">https://til.simonwillison.net/python/uv-cli-apps</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1725.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 21 Oct 2024 20:54:36 +0000</pubDate>
+      <pubDate>Thu, 24 Oct 2024 15:38:09 +0000</pubDate>
     </item>
     <item>
       <title>The Top 100 Gen AI Consumer Apps - 3rd Edition | Andreessen Horowitz</title>
@@ -201,10 +178,10 @@
       <title>player.style - Video &amp; audio player themes for every web player &amp; framework</title>
       <link>https://player.style/</link>
       <description>Video and audio player themes that work for any web player (Video.js, Youtube embeds, and more), and with every web app framework (HTML, React, and more). Open source and built with Media Chrome so they’re fully customizable using just HTML and CSS.</description>
-      <category>fashion</category>
-  <category>shopping</category>
-  <category>luxury</category>
-  <category>design</category>
+      <category>theming</category>
+  <category>skin</category>
+  <category>modal</category>
+  <category>player</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://player.style/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1711.jpg" length="25000" type="image/jpeg"/>
@@ -339,6 +316,35 @@
       <guid isPermaLink="true">https://asim.sh/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 04 Oct 2024 16:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackerNews/API: Documentation and Samples for the Official HN API</title>
+      <link>https://github.com/HackerNews/API</link>
+      <description>Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub.</description>
+      <category>github</category>
+  <category>api</category>
+  <category>news</category>
+  <category>data</category>
+  <category>code</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/HackerNews/API</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1699.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 04 Oct 2024 14:08:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</title>
+      <link>https://github.com/bjesus/pipet</link>
+      <description>a swiss-army tool for scraping and extracting data from online assets, made for hackers  - bjesus/pipet: a swiss-army tool for scraping and extracting data from online assets, made for hackers</description>
+      <category>github</category>
+  <category>code</category>
+  <category>python</category>
+  <category>text</category>
+  <category>processing</category>
+  <category>library</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/bjesus/pipet</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1698.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 30 Sep 2024 21:07:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
