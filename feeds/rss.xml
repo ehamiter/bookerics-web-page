@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 28 Oct 2024 22:19:01 +0000</pubDate>
+    <pubDate>Tue, 29 Oct 2024 21:14:48 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,46 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Oct 2024 22:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 21:14:48 +0000</lastBuildDate>
         <item>
+      <title>HexSeq</title>
+      <link>https://www.maxquinn.nz/</link>
+      <description>A generative ambient musical instrument inspired by the Teenage Engineering OP-1 Tombola sequencer.</description>
+      <category>filmmaking</category>
+  <category>documentaries</category>
+  <category>adventure</category>
+  <category>wildlife</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.maxquinn.nz/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1731.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 20:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ding Dong Doorbell</title>
+      <link>https://dingdongdoorbell.com/</link>
+      <description>Replace your doorbell with a QR code</description>
+      <category>home</category>
+  <category>security</category>
+  <category>technology</category>
+  <category>doorbells</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://dingdongdoorbell.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1730.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 20:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internal Tools Deployment Platform | Clace</title>
+      <link>https://clace.io/</link>
+      <description>Platform for securely developing and deploying internal tools easily. Application server for containerized webapps. Create and share webapps from CLI applications.</description>
+      <category>operations</category>
+  <category>platform</category>
+  <category>collaboration</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://clace.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1729.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 29 Oct 2024 14:42:15 +0000</pubDate>
+    </item>
+    <item>
       <title>soimort/you-get: Dumb downloader that scrapes the web</title>
       <link>https://github.com/soimort/you-get</link>
       <description>Dumb downloader that scrapes the web - soimort/you-get</description>
@@ -302,45 +340,6 @@
       <guid isPermaLink="true">https://www.tiinycolor.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1703.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 04 Oct 2024 16:52:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>One, a React Framework | Tamagui</title>
-      <link>https://onestack.dev/</link>
-      <description>One is a React framework focused on simplicity that lets you target both web and native at once with a single Vite plugin.</description>
-      <category>developers</category>
-  <category>applications</category>
-  <category>platform</category>
-  <category>react</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://onestack.dev/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1702.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 04 Oct 2024 16:42:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Digital Twin APIs</title>
-      <link>https://www.tavus.io/</link>
-      <description>Tavus is the leading AI video research company that enables product development teams to build white-labeled digital twin experiences with easy-to-use APIs.</description>
-      <category>ai</category>
-  <category>technology</category>
-  <category>videos</category>
-  <category>personalization</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://www.tavus.io/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1701.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 04 Oct 2024 16:37:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>aSim - simulate anything through your phone</title>
-      <link>https://asim.sh/</link>
-      <description>simulate anything through your phone</description>
-      <category>ai</category>
-  <category>coding</category>
-  <category>software</category>
-  <category>iOS</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://asim.sh/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1700.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Fri, 04 Oct 2024 16:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
