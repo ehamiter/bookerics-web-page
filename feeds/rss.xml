@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Sat, 02 Nov 2024 00:05:27 +0000</pubDate>
+    <pubDate>Thu, 07 Nov 2024 21:49:41 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,34 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Nov 2024 00:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 21:49:41 +0000</lastBuildDate>
         <item>
+      <title>Proposal for a Django project template | David Guillot</title>
+      <link>https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/</link>
+      <description>My take on what could be a project template for Django advanced usage, with modern tooling (for Python and UI dependencies, as well as configuration/environment management), but not too opinionated.</description>
+      <category>django</category>
+  <category>software-development</category>
+  <category>project-templates</category>
+  <category>best-practices</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1735.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 07 Nov 2024 21:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Auth Wiki</title>
+      <link>https://auth.wiki/</link>
+      <description>Auth Wiki is a comprehensive collection of articles, tutorials, and resources about authentication and authorization. Learn about OAuth 2.0, OpenID Connect, SAML, and more.</description>
+      <category>authentication</category>
+  <category>security</category>
+  <category>digital</category>
+  <category>guides</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://auth.wiki/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1734.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Sun, 03 Nov 2024 16:23:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Gavin Nelson, Designer</title>
       <link>https://nelson.co/work/iOS-interaction-prototypes</link>
       <description>The website and design portfolio of Gavin Nelson.</description>
@@ -27,7 +53,7 @@
   <category>user-experience</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://nelson.co/work/iOS-interaction-prototypes</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1733.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Fri, 01 Nov 2024 21:46:37 +0000</pubDate>
     </item>
     <item>
@@ -315,32 +341,6 @@
       <guid isPermaLink="true">https://sq.io/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1707.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 08 Oct 2024 16:28:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>OkBookmarks</title>
-      <link>https://okbookmarks.com/</link>
-      <description>Never forget about a bookmark again with this free. Bring all your URLs to okbookmarks and search for the content whenever you need it.</description>
-      <category>bookmarks</category>
-  <category>organization</category>
-  <category>websites</category>
-  <category>management</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://okbookmarks.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1706.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Mon, 07 Oct 2024 18:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>UV with GitHub Actions to run an RSS to README project</title>
-      <link>https://simonwillison.net/2024/Oct/5/uv-with-github-actions-to-run-an-rss-to-readme-project/</link>
-      <description>Jeff Triplett demonstrates a very neat pattern for using [uv](https://docs.astral.sh/uv/) to run Python scripts with their dependencies inside of GitHub Actions.</description>
-      <category>github</category>
-  <category>automation</category>
-  <category>rss</category>
-  <category>programming</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://simonwillison.net/2024/Oct/5/uv-with-github-actions-to-run-an-rss-to-readme-project/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1705.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Sun, 06 Oct 2024 14:01:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
