@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 07 Nov 2024 21:49:41 +0000</pubDate>
+    <pubDate>Fri, 08 Nov 2024 09:54:18 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,34 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Nov 2024 21:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 09:54:18 +0000</lastBuildDate>
         <item>
+      <title>Mushroom Color Atlas</title>
+      <link>https://www.mushroomcoloratlas.com/</link>
+      <description>In this dynamic Mushroom Color Atlas, explore the colorful universe of fungi through the spectrum of colors from dyeing with mushrooms.</description>
+      <category>mushrooms</category>
+  <category>natural-dyeing</category>
+  <category>colors</category>
+  <category>techniques</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.mushroomcoloratlas.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 07 Nov 2024 22:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAX SIEDENTOPF — Passport Photos</title>
+      <link>https://maxsiedentopf.com/passport-photos/</link>
+      <description>Max Siedentopf (1991) is a Namibian-German artist, photographer, director and publisher. Max grew up in Windhoek, Namibia and continued to work in Berlin, Los Angeles and Amsterdam. He is currently based in London.</description>
+      <category>art</category>
+  <category>photography</category>
+  <category>humor</category>
+  <category>projects</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://maxsiedentopf.com/passport-photos/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1736.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 07 Nov 2024 22:21:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Proposal for a Django project template | David Guillot</title>
       <link>https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/</link>
       <description>My take on what could be a project template for Django advanced usage, with modern tooling (for Python and UI dependencies, as well as configuration/environment management), but not too opinionated.</description>
@@ -315,32 +341,6 @@
       <guid isPermaLink="true">https://lychee.cli.rs/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1710.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 08 Oct 2024 23:23:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Hurricane Milton LIVE Tracker, Updates &amp; Forecast | Zoom Earth</title>
-      <link>https://zoom.earth/storms/milton-2024/</link>
-      <description>Live tracking map, satellite images and forecasts of Major Hurricane Milton 2024 in the Gulf of Mexico. Current wind speed 165mph. Max 180mph.</description>
-      <category>weather</category>
-  <category>storms</category>
-  <category>tracking</category>
-  <category>satellite</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://zoom.earth/storms/milton-2024/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1709.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 21:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>sq data wrangler</title>
-      <link>https://sq.io/</link>
-      <description>sq is a free/libre open-source data wrangling swiss-army knife to inspect, query, join, import, and export data. You could think of sq as jq for databases and documents, facilitating one-liners like:  sq '@postgres_db | .actor | .first_name, .last_name | .[0:5]'</description>
-      <category>adam</category>
-  <category>sql</category>
-  <category>data</category>
-  <category>open-source</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://sq.io/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1707.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 16:28:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
