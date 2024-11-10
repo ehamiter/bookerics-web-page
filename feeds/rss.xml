@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 08 Nov 2024 09:54:18 +0000</pubDate>
+    <pubDate>Sun, 10 Nov 2024 01:36:15 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,7 +16,7 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Nov 2024 09:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 01:36:15 +0000</lastBuildDate>
         <item>
       <title>Mushroom Color Atlas</title>
       <link>https://www.mushroomcoloratlas.com/</link>
@@ -27,7 +27,7 @@
   <category>techniques</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://www.mushroomcoloratlas.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1737.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Thu, 07 Nov 2024 22:21:50 +0000</pubDate>
     </item>
     <item>
