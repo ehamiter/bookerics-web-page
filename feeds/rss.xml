@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Sun, 10 Nov 2024 01:36:15 +0000</pubDate>
+    <pubDate>Tue, 12 Nov 2024 20:05:53 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Nov 2024 01:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 20:05:53 +0000</lastBuildDate>
         <item>
+      <title>Hootens Mobile Mechanics | Mobile Mechanic &amp; Auto Repair Services</title>
+      <link>https://hootensmobilemechanics.com/</link>
+      <description>Your trusted on-the-go auto repair solution serving Nashville and the surrounding areas. With our dedicated team and reliable service, we bring the convenience of a fully-equipped mobile workshop right to your doorstep. Call us today at (629) 335-8394 for all your repair needs.</description>
+      <category>automotive</category>
+  <category>repair</category>
+  <category>mobile</category>
+  <category>services</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://hootensmobilemechanics.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1738.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 12 Nov 2024 17:47:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Mushroom Color Atlas</title>
       <link>https://www.mushroomcoloratlas.com/</link>
       <description>In this dynamic Mushroom Color Atlas, explore the colorful universe of fungi through the spectrum of colors from dyeing with mushrooms.</description>
@@ -327,20 +340,6 @@
       <guid isPermaLink="true">https://player.style/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1711.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Wed, 09 Oct 2024 16:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>lychee</title>
-      <link>https://lychee.cli.rs/</link>
-      <description>A fast, async link checker written in Rust. Finds broken hyperlinks and mail addresses, supports Markdown, HTML and more, simple and lightweight.</description>
-      <category>rust</category>
-  <category>tools</category>
-  <category>cli</category>
-  <category>web</category>
-  <category>hyperlinks</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://lychee.cli.rs/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1710.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 08 Oct 2024 23:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
