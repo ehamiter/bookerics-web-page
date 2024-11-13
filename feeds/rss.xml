@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 12 Nov 2024 20:05:53 +0000</pubDate>
+    <pubDate>Wed, 13 Nov 2024 22:09:00 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,19 +16,45 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Nov 2024 20:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 22:09:00 +0000</lastBuildDate>
         <item>
-      <title>Hootens Mobile Mechanics | Mobile Mechanic &amp; Auto Repair Services</title>
-      <link>https://hootensmobilemechanics.com/</link>
-      <description>Your trusted on-the-go auto repair solution serving Nashville and the surrounding areas. With our dedicated team and reliable service, we bring the convenience of a fully-equipped mobile workshop right to your doorstep. Call us today at (629) 335-8394 for all your repair needs.</description>
-      <category>automotive</category>
-  <category>repair</category>
-  <category>mobile</category>
-  <category>services</category>
+      <title>Lighthouse - Newsletter to RSS tool</title>
+      <link>https://lighthouseapp.io/tools/newsletter-to-rss</link>
+      <description>The RSS feed reader to fix information overload</description>
+      <category>tools</category>
+  <category>newsletters</category>
+  <category>rss</category>
+  <category>conversion</category>
       <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://hootensmobilemechanics.com/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1738.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 12 Nov 2024 17:47:06 +0000</pubDate>
+      <guid isPermaLink="true">https://lighthouseapp.io/tools/newsletter-to-rss</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1741.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 13 Nov 2024 20:08:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Owl Garage</title>
+      <link>https://www.blackowlgarage.com/</link>
+      <description>Black Owl Garage provides mobile full-service automobile maintenance, repair, and aftermarket support.</description>
+      <category>automotive</category>
+  <category>customization</category>
+  <category>parts</category>
+  <category>accessories</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.blackowlgarage.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1740.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Wed, 13 Nov 2024 16:36:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luqo AI - The new AI-powered language experience</title>
+      <link>https://www.luqo.ai/</link>
+      <description>Luqo AI is the new way to learn a foreign language. The comprehensive learning system combines effective education methods with state-of-the-art technology.</description>
+      <category>ai</category>
+  <category>automation</category>
+  <category>conversational-interfaces</category>
+  <category>customer-engagement</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.luqo.ai/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1651.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 12 Nov 2024 20:43:26 +0000</pubDate>
     </item>
     <item>
       <title>Mushroom Color Atlas</title>
@@ -314,32 +340,6 @@
       <guid isPermaLink="true">https://bolt.new/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1714.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 14:12:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>trafilatura - gather text on the Web</title>
-      <link>https://trafilatura.readthedocs.io/en/latest/</link>
-      <description>Trafilatura is a Python package and command-line tool designed to gather text on the Web. Its main applications are web crawling, downloads, scraping, and extraction of main texts, comments and metadata.</description>
-      <category>web-scraping</category>
-  <category>python</category>
-  <category>content-extraction</category>
-  <category>library</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://trafilatura.readthedocs.io/en/latest/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1712.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Thu, 10 Oct 2024 15:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>player.style - Video &amp; audio player themes for every web player &amp; framework</title>
-      <link>https://player.style/</link>
-      <description>Video and audio player themes that work for any web player (Video.js, Youtube embeds, and more), and with every web app framework (HTML, React, and more). Open source and built with Media Chrome so they’re fully customizable using just HTML and CSS.</description>
-      <category>theming</category>
-  <category>skin</category>
-  <category>modal</category>
-  <category>player</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://player.style/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1711.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Wed, 09 Oct 2024 16:38:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
