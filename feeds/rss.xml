@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Wed, 13 Nov 2024 22:09:00 +0000</pubDate>
+    <pubDate>Mon, 18 Nov 2024 20:59:56 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Nov 2024 22:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 20:59:56 +0000</lastBuildDate>
         <item>
+      <title>Atuin - Magical Shell History</title>
+      <link>https://atuin.sh/</link>
+      <description>Sync, search and backup shell history with Atuin</description>
+      <category>shell</category>
+  <category>terminal</category>
+  <category>tools</category>
+  <category>synchronization</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://atuin.sh/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1742.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Mon, 18 Nov 2024 14:51:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Lighthouse - Newsletter to RSS tool</title>
       <link>https://lighthouseapp.io/tools/newsletter-to-rss</link>
       <description>The RSS feed reader to fix information overload</description>
@@ -326,20 +339,6 @@
       <guid isPermaLink="true">https://ovel.sh/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1715.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 14:22:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>bolt.new</title>
-      <link>https://bolt.new/</link>
-      <description>Prompt, run, edit &amp; deploy web apps</description>
-      <category>apps</category>
-  <category>web</category>
-  <category>llm</category>
-  <category>chatgpt</category>
-  <category>ai</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://bolt.new/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1714.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 14:12:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
