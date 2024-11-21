@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Mon, 18 Nov 2024 20:59:56 +0000</pubDate>
+    <pubDate>Thu, 21 Nov 2024 00:02:43 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Nov 2024 20:59:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:02:43 +0000</lastBuildDate>
         <item>
+      <title>Cloudflare Pages</title>
+      <link>https://pages.cloudflare.com/</link>
+      <description>Build your next application with Cloudflare Pages</description>
+      <category>cloud</category>
+  <category>development</category>
+  <category>hosting</category>
+  <category>websites</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://pages.cloudflare.com/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1743.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 21 Nov 2024 00:02:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Atuin - Magical Shell History</title>
       <link>https://atuin.sh/</link>
       <description>Sync, search and backup shell history with Atuin</description>
@@ -326,19 +339,6 @@
       <guid isPermaLink="true">https://mynaui.com/icons</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1717.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 15:17:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>shovel - productivity tool with journal &amp; todo list</title>
-      <link>https://ovel.sh/</link>
-      <description>Boost productivity with our ADHD-friendly app. Features tools for work and study, including journal, todo lists, and time management. AI powered organization coming soon to iPhone, iPad, and Android.</description>
-      <category>adhd</category>
-  <category>productivity</category>
-  <category>pomodoro</category>
-  <category>journal</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://ovel.sh/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1715.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 14:22:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
