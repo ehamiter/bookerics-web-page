@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 21 Nov 2024 00:44:21 +0000</pubDate>
+    <pubDate>Thu, 21 Nov 2024 00:48:13 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,15 +16,13 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 00:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:48:13 +0000</lastBuildDate>
         <item>
       <title>Ensō—write now, edit later.</title>
       <link>https://enso.sonnet.io/</link>
       <description>Ensō is a writing tool that helps you enter a state of flow. Click to learn more.</description>
-      <category>machine-learning</category>
-  <category>software</category>
-  <category>ai-tools</category>
-  <category>development</category>
+      <category>writing</category>
+  <category>tools</category>
       <author>eric@bookerics.com (Eric)</author>
       <guid isPermaLink="true">https://enso.sonnet.io/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1744.jpg" length="25000" type="image/jpeg"/>
