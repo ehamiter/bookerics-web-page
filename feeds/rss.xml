@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 21 Nov 2024 00:02:43 +0000</pubDate>
+    <pubDate>Thu, 21 Nov 2024 00:44:21 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,21 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 00:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:44:21 +0000</lastBuildDate>
         <item>
+      <title>Ensō—write now, edit later.</title>
+      <link>https://enso.sonnet.io/</link>
+      <description>Ensō is a writing tool that helps you enter a state of flow. Click to learn more.</description>
+      <category>machine-learning</category>
+  <category>software</category>
+  <category>ai-tools</category>
+  <category>development</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://enso.sonnet.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1744.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 21 Nov 2024 00:23:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Cloudflare Pages</title>
       <link>https://pages.cloudflare.com/</link>
       <description>Build your next application with Cloudflare Pages</description>
@@ -328,17 +341,6 @@
       <guid isPermaLink="true">https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1718.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 15:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>MynaUI Icons - MynaUI - Made with TailwindCSS, shadcn/ui, Radix UI and Figma</title>
-      <link>https://mynaui.com/icons</link>
-      <description>Beautifully crafted open source icons for your next project.</description>
-      <category>icons</category>
-  <category>ui</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://mynaui.com/icons</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1717.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 15:17:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
