@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Thu, 21 Nov 2024 00:48:13 +0000</pubDate>
+    <pubDate>Fri, 22 Nov 2024 21:52:39 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,8 +16,34 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 00:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:52:39 +0000</lastBuildDate>
         <item>
+      <title>presubmit/ai-reviewer: Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more</title>
+      <link>https://github.com/presubmit/ai-reviewer</link>
+      <description>Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more - presubmit/ai-reviewer</description>
+      <category>software</category>
+  <category>open-source</category>
+  <category>artificial-intelligence</category>
+  <category>code-review</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://github.com/presubmit/ai-reviewer</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1746.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Fri, 22 Nov 2024 21:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bluesky network analyser</title>
+      <link>https://bsky-follow-finder.theo.io/</link>
+      <description>Find accounts that you don't follow (yet) but are followed by lots of accounts that you do follow.</description>
+      <category>social</category>
+  <category>networking</category>
+  <category>discovery</category>
+  <category>tools</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://bsky-follow-finder.theo.io/</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1745.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Thu, 21 Nov 2024 23:52:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Ensō—write now, edit later.</title>
       <link>https://enso.sonnet.io/</link>
       <description>Ensō is a writing tool that helps you enter a state of flow. Click to learn more.</description>
@@ -311,34 +337,6 @@
       <guid isPermaLink="true">https://www.unison-lang.org/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1721.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 20:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sqlime - SQLite Playground</title>
-      <link>https://sqlime.org/</link>
-      <description>Sqlime is an online SQLite playground for debugging and sharing SQL snippets.</description>
-      <category>sqlite</category>
-  <category>sql</category>
-  <category>db</category>
-  <category>web</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://sqlime.org/</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1719.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 19:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>scaffoldly/scaffoldly-examples at python-flask-poetry</title>
-      <link>https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</link>
-      <description>The Scaffoldly Toolchain: Deploy anything to AWS Lambda in Minutes</description>
-      <category>python</category>
-  <category>web</category>
-  <category>apps</category>
-  <category>aws</category>
-  <category>lambda</category>
-  <category>flask</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://github.com/scaffoldly/scaffoldly-examples/tree/python-flask-poetry</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1718.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 15 Oct 2024 15:40:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
