@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Tue, 26 Nov 2024 20:05:37 +0000</pubDate>
+    <pubDate>Tue, 26 Nov 2024 20:07:26 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,21 +16,8 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Nov 2024 20:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 20:07:26 +0000</lastBuildDate>
         <item>
-      <title>What’s New In Python 3.13 — Python 3.13.0 documentation</title>
-      <link>https://docs.python.org/3/whatsnew/3.13.html</link>
-      <description>Editors, Adam Turner and Thomas Wouters,. This article explains the new features in Python 3.13, compared to 3.12. Python 3.13 was released on October 7, 2024. For full details, see the changelog. ...</description>
-      <category>python</category>
-  <category>programming</category>
-  <category>software</category>
-  <category>updates</category>
-      <author>eric@bookerics.com (Eric)</author>
-      <guid isPermaLink="true">https://docs.python.org/3/whatsnew/3.13.html</guid>
-      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1748.jpg" length="25000" type="image/jpeg"/>
-      <pubDate>Tue, 26 Nov 2024 20:05:34 +0000</pubDate>
-    </item>
-    <item>
       <title>2-fly-4-ai/V0-system-prompt</title>
       <link>https://github.com/2-fly-4-ai/V0-system-prompt</link>
       <description>Contribute to 2-fly-4-ai/V0-system-prompt development by creating an account on GitHub.</description>
@@ -337,6 +324,19 @@
       <guid isPermaLink="true">https://uithub.com/</guid>
       <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1723.jpg" length="25000" type="image/jpeg"/>
       <pubDate>Tue, 15 Oct 2024 21:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Even Realities G1: Next-Gen Smart Glasses with Display</title>
+      <link>https://www.evenrealities.com/g1</link>
+      <description>G1 redefines prescription eyewear with smart features including QuickNote, Translate, Navigate, and Even AI. Enhance your everyday life with revolutiona...</description>
+      <category>virtual-reality</category>
+  <category>education</category>
+  <category>therapy</category>
+  <category>technology</category>
+      <author>eric@bookerics.com (Eric)</author>
+      <guid isPermaLink="true">https://www.evenrealities.com/g1</guid>
+      <enclosure url="https://bookerics.s3.amazonaws.com/thumbnails/1722.jpg" length="25000" type="image/jpeg"/>
+      <pubDate>Tue, 15 Oct 2024 21:11:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
