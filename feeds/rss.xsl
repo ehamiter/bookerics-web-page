@@ -124,9 +124,6 @@
         </xsl:for-each>
         <div class="bookerics-foot">
           <a class="title" href="https://bookerics.com">bookerics</a>
-          <nav>
-            <a href="https://bookerics.com/feeds/rss.xml">rss feed</a>
-          </nav>
         </div>
       </body>
     </html>
