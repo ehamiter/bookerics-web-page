@@ -6,7 +6,7 @@
     <link>https://bookerics.com/feeds/rss.xml</link>
     <description><![CDATA[bookmarks, but for Erics]]></description>
     <webMaster>eric@bookerics.com (Eric)</webMaster>
-    <pubDate>Fri, 22 Nov 2024 21:52:39 +0000</pubDate>
+    <pubDate>Tue, 26 Nov 2024 19:53:35 +0000</pubDate>
     <atom:link href="https://bookerics.com/feeds/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>bookerics 2024.09.05</generator>
@@ -16,7 +16,7 @@
       <link>https://bookerics.com</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Nov 2024 21:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 19:53:35 +0000</lastBuildDate>
         <item>
       <title>presubmit/ai-reviewer: Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more</title>
       <link>https://github.com/presubmit/ai-reviewer</link>
